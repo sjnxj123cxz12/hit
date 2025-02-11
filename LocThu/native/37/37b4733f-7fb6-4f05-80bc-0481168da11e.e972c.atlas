@@ -1,0 +1,62 @@
+
+khi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AN
+  rotate: true
+  xy: 448, 116
+  size: 122, 148
+  orig: 122, 148
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 155, 95
+  size: 149, 143
+  orig: 149, 143
+  offset: 0, 0
+  index: -1
+DUOI
+  rotate: false
+  xy: 709, 184
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+VONG
+  rotate: false
+  xy: 306, 107
+  size: 140, 131
+  orig: 140, 131
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 598, 132
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 81
+  size: 151, 157
+  orig: 151, 157
+  offset: 0, 0
+  index: -1
+khan
+  rotate: true
+  xy: 118, 29
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 2
+  size: 114, 77
+  orig: 114, 77
+  offset: 0, 0
+  index: -1

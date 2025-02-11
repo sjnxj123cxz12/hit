@@ -1,0 +1,97 @@
+
+UI_Logo.png
+size: 466,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 394, 39
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Ball_FX
+  rotate: false
+  xy: 2, 130
+  size: 320, 84
+  orig: 320, 84
+  offset: 0, 0
+  index: -1
+Ball_FX - Copy
+  rotate: false
+  xy: 2, 8
+  size: 160, 42
+  orig: 160, 42
+  offset: 0, 0
+  index: -1
+Ball_Shine
+  rotate: false
+  xy: 394, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Cup
+  rotate: false
+  xy: 324, 146
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: -1
+Cup_Light
+  rotate: false
+  xy: 336, 76
+  size: 117, 68
+  orig: 117, 68
+  offset: 0, 0
+  index: -1
+Sao
+  rotate: false
+  xy: 248, 14
+  size: 74, 36
+  orig: 74, 36
+  offset: 0, 0
+  index: -1
+Sieu
+  rotate: false
+  xy: 164, 14
+  size: 82, 36
+  orig: 82, 36
+  offset: 0, 0
+  index: -1
+Star
+  rotate: true
+  xy: 443, 192
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Star_Tail
+  rotate: true
+  xy: 431, 20
+  size: 54, 13
+  orig: 54, 13
+  offset: 0, 0
+  index: -1
+World
+  rotate: false
+  xy: 2, 52
+  size: 165, 76
+  orig: 165, 76
+  offset: 0, 0
+  index: -1
+World_Fx
+  rotate: false
+  xy: 336, 27
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+World_Light
+  rotate: false
+  xy: 169, 52
+  size: 165, 76
+  orig: 165, 76
+  offset: 0, 0
+  index: -1

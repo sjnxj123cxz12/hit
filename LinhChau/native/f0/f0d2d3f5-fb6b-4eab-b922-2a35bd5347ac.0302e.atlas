@@ -1,0 +1,125 @@
+
+9848_UI_Jackpot_Frame.png
+size: 1352,1350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/FX_00
+  rotate: false
+  xy: 2, 1178
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+FX/FX_02
+  rotate: false
+  xy: 2, 1006
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+FX/FX_04
+  rotate: false
+  xy: 452, 1178
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+FX/FX_06
+  rotate: false
+  xy: 2, 834
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+FX/FX_08
+  rotate: false
+  xy: 452, 1006
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+FX/FX_10
+  rotate: false
+  xy: 902, 1178
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+FX/FX_12
+  rotate: false
+  xy: 2, 662
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+FX/FX_14
+  rotate: false
+  xy: 452, 834
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+FX/FX_16
+  rotate: false
+  xy: 902, 1006
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+FX/FX_18
+  rotate: false
+  xy: 2, 490
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+FX/FX_20
+  rotate: false
+  xy: 452, 662
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+FX/FX_22
+  rotate: false
+  xy: 902, 834
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+FX/FX_24
+  rotate: false
+  xy: 2, 318
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+FX/FX_26
+  rotate: false
+  xy: 452, 490
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+FX/FX_28
+  rotate: false
+  xy: 902, 662
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+Jackpot
+  rotate: false
+  xy: 2, 146
+  size: 448, 170
+  orig: 448, 170
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 452, 432
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1

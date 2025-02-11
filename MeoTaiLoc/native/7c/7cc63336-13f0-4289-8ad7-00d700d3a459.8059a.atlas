@@ -1,0 +1,34 @@
+
+Sukien-LongVuong.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 44
+  size: 180, 205
+  orig: 182, 207
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 344, 196
+  size: 163, 53
+  orig: 165, 55
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 184, 164
+  size: 158, 85
+  orig: 160, 87
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 2, 2
+  size: 120, 40
+  orig: 122, 42
+  offset: 1, 1
+  index: -1

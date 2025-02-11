@@ -1,0 +1,55 @@
+
+9848_Btn_Spin.png
+size: 595,595
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Circle_01
+  rotate: false
+  xy: 2, 2
+  size: 259, 259
+  orig: 259, 259
+  offset: 0, 0
+  index: -1
+Green
+  rotate: false
+  xy: 263, 82
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+Jew_Glow
+  rotate: false
+  xy: 263, 19
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+Par
+  rotate: false
+  xy: 321, 24
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Rainbow_Halo1
+  rotate: false
+  xy: 335, 242
+  size: 233, 351
+  orig: 233, 351
+  offset: 0, 0
+  index: -1
+Rainbow_Halo2
+  rotate: false
+  xy: 2, 263
+  size: 331, 330
+  orig: 331, 330
+  offset: 0, 0
+  index: -1
+Red
+  rotate: false
+  xy: 424, 82
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1

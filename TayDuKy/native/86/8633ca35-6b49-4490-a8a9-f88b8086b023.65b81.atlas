@@ -1,0 +1,104 @@
+
+TNK-Lobby-P100.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7.TNK-2/Spine/Lobby/P100/images/1
+  rotate: false
+  xy: 2, 235
+  size: 248, 283
+  orig: 248, 283
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P100/images/10
+  rotate: false
+  xy: 252, 357
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P100/images/11
+  rotate: true
+  xy: 422, 532
+  size: 140, 187
+  orig: 140, 187
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P100/images/12
+  rotate: false
+  xy: 2, 47
+  size: 195, 186
+  orig: 195, 186
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P100/images/13
+  rotate: false
+  xy: 199, 199
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P100/images/14
+  rotate: true
+  xy: 403, 469
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P100/images/2
+  rotate: false
+  xy: 611, 539
+  size: 129, 133
+  orig: 129, 133
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P100/images/3
+  rotate: false
+  xy: 2, 520
+  size: 418, 497
+  orig: 418, 497
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P100/images/4
+  rotate: true
+  xy: 2, 2
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P100/images/5
+  rotate: false
+  xy: 742, 541
+  size: 84, 131
+  orig: 84, 131
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P100/images/6
+  rotate: true
+  xy: 422, 674
+  size: 343, 532
+  orig: 343, 532
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P100/images/7
+  rotate: true
+  xy: 956, 898
+  size: 119, 38
+  orig: 119, 38
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P100/images/8
+  rotate: false
+  xy: 828, 586
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P100/images/9
+  rotate: true
+  xy: 252, 245
+  size: 110, 148
+  orig: 110, 148
+  offset: 0, 0
+  index: -1

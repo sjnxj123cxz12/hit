@@ -1,0 +1,41 @@
+
+huvang_bc.png
+size: 467,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chum
+  rotate: false
+  xy: 2, 13
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 361, 59
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 361, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 154, 33
+  size: 129, 130
+  orig: 129, 130
+  offset: 0, 0
+  index: -1
+nuivang
+  rotate: true
+  xy: 285, 12
+  size: 151, 74
+  orig: 151, 74
+  offset: 0, 0
+  index: -1

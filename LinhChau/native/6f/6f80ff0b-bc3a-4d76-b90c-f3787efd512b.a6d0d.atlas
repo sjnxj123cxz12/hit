@@ -1,0 +1,195 @@
+
+9848_Symbol_2.png
+size: 719,719
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire_Work_1
+  rotate: false
+  xy: 565, 411
+  size: 92, 126
+  orig: 92, 126
+  offset: 0, 0
+  index: -1
+Fire_Work_2
+  rotate: false
+  xy: 178, 296
+  size: 113, 85
+  orig: 113, 85
+  offset: 0, 0
+  index: -1
+Fire_Work_3
+  rotate: false
+  xy: 549, 278
+  size: 82, 105
+  orig: 82, 105
+  offset: 0, 0
+  index: -1
+Fire_Work_4
+  rotate: false
+  xy: 527, 147
+  size: 79, 108
+  orig: 79, 108
+  offset: 0, 0
+  index: -1
+Firework_Wire
+  rotate: false
+  xy: 527, 92
+  size: 125, 53
+  orig: 125, 53
+  offset: 0, 0
+  index: -1
+Frame_Lucky_Jade
+  rotate: false
+  xy: 415, 539
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+Gold_Bottom
+  rotate: false
+  xy: 175, 545
+  size: 238, 172
+  orig: 238, 172
+  offset: 0, 0
+  index: -1
+Gold_Top
+  rotate: false
+  xy: 254, 157
+  size: 153, 137
+  orig: 153, 137
+  offset: 0, 0
+  index: -1
+Layer 540 copy
+  rotate: false
+  xy: 659, 499
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+Layer 5401 copy 2
+  rotate: false
+  xy: 409, 142
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+Layer 5402 copy 2
+  rotate: false
+  xy: 180, 90
+  size: 72, 204
+  orig: 72, 204
+  offset: 0, 0
+  index: -1
+Lucky_Jade
+  rotate: false
+  xy: 2, 103
+  size: 176, 172
+  orig: 176, 172
+  offset: 0, 0
+  index: -1
+Lucky_Jade _Wire
+  rotate: false
+  xy: 329, 391
+  size: 82, 152
+  orig: 82, 152
+  offset: 0, 0
+  index: -1
+Lucky_Jade _Yellow
+  rotate: false
+  xy: 293, 298
+  size: 102, 83
+  orig: 102, 83
+  offset: 0, 0
+  index: -1
+Lucky_Money_Top
+  rotate: false
+  xy: 595, 555
+  size: 115, 162
+  orig: 115, 162
+  offset: 0, 0
+  index: -1
+Orange
+  rotate: false
+  xy: 254, 25
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+Orange_Bottom
+  rotate: false
+  xy: 633, 342
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+Orange_Leaf
+  rotate: false
+  xy: 633, 302
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+Orange_Top
+  rotate: false
+  xy: 127, 2
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+Orange_Tree
+  rotate: false
+  xy: 220, 42
+  size: 19, 46
+  orig: 19, 46
+  offset: 0, 0
+  index: -1
+Polygon
+  rotate: false
+  xy: 409, 257
+  size: 138, 126
+  orig: 138, 126
+  offset: 0, 0
+  index: -1
+Rectangle 930
+  rotate: false
+  xy: 2, 277
+  size: 174, 179
+  orig: 174, 179
+  offset: 0, 0
+  index: -1
+Symbol_3
+  rotate: false
+  xy: 2, 458
+  size: 171, 259
+  orig: 171, 259
+  offset: 0, 0
+  index: -1
+Symbol_7_1
+  rotate: false
+  xy: 178, 383
+  size: 149, 160
+  orig: 149, 160
+  offset: 0, 0
+  index: -1
+Symbol_7_2
+  rotate: false
+  xy: 2, 19
+  size: 123, 82
+  orig: 123, 82
+  offset: 0, 0
+  index: -1
+Watermelon
+  rotate: false
+  xy: 413, 385
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+Watermelon_Top
+  rotate: false
+  xy: 406, 25
+  size: 105, 115
+  orig: 105, 115
+  offset: 0, 0
+  index: -1

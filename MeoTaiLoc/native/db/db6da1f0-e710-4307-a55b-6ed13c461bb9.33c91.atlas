@@ -1,0 +1,244 @@
+
+UI_Jackpot_Frame.png
+size: 977,960
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard_L
+  rotate: true
+  xy: 943, 500
+  size: 110, 28
+  orig: 110, 28
+  offset: 0, 0
+  index: -1
+Beard_R
+  rotate: true
+  xy: 262, 36
+  size: 88, 44
+  orig: 88, 44
+  offset: 0, 0
+  index: -1
+Body_Bot_Day
+  rotate: false
+  xy: 350, 128
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+Body_Bot_Night
+  rotate: false
+  xy: 534, 124
+  size: 182, 138
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+Body_Dragon_Day
+  rotate: false
+  xy: 2, 788
+  size: 624, 170
+  orig: 624, 170
+  offset: 0, 0
+  index: -1
+Body_Dragon_Night
+  rotate: false
+  xy: 2, 616
+  size: 624, 170
+  orig: 624, 170
+  offset: 0, 0
+  index: -1
+Body_Top_Day
+  rotate: true
+  xy: 2, 2
+  size: 122, 128
+  orig: 122, 128
+  offset: 0, 0
+  index: -1
+Body_Top_Night
+  rotate: true
+  xy: 132, 2
+  size: 122, 128
+  orig: 122, 128
+  offset: 0, 0
+  index: -1
+Bubble/Bubble_01
+  rotate: true
+  xy: 900, 76
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+Bubble/Bubble_02
+  rotate: true
+  xy: 900, 29
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+Bubble/Bubble_03
+  rotate: false
+  xy: 718, 216
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+Bubble/Bubble_04
+  rotate: false
+  xy: 375, 63
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+Eye_Lids
+  rotate: true
+  xy: 350, 275
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+Eye_Sleep
+  rotate: false
+  xy: 362, 319
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Eye_W
+  rotate: true
+  xy: 951, 248
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+Fire_Idle/fire_idle0002
+  rotate: false
+  xy: 628, 786
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Fire_Idle/fire_idle0004
+  rotate: false
+  xy: 421, 442
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Fire_Idle/fire_idle0006
+  rotate: false
+  xy: 2, 126
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Fire_Idle/fire_idle0008
+  rotate: false
+  xy: 802, 786
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Fire_Idle/fire_idle0010
+  rotate: false
+  xy: 176, 126
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Fire_Idle/fire_idle0012
+  rotate: false
+  xy: 628, 612
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Fire_Idle/fire_idle0014
+  rotate: false
+  xy: 802, 612
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Fire_Idle/fire_idle0016
+  rotate: false
+  xy: 595, 438
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Fire_Idle/fire_idle0018
+  rotate: false
+  xy: 769, 438
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Fire_Idle/fire_idle0020
+  rotate: false
+  xy: 421, 268
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Fire_Idle/fire_idle0022
+  rotate: false
+  xy: 595, 264
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 2, 477
+  size: 417, 137
+  orig: 417, 137
+  offset: 0, 0
+  index: -1
+Frame_Glow
+  rotate: false
+  xy: 2, 338
+  size: 417, 137
+  orig: 417, 137
+  offset: 0, 0
+  index: -1
+Head_Dragon_Day
+  rotate: false
+  xy: 769, 157
+  size: 180, 137
+  orig: 180, 137
+  offset: 0, 0
+  index: -1
+Head_Dragon_Night
+  rotate: false
+  xy: 718, 18
+  size: 180, 137
+  orig: 180, 137
+  offset: 0, 0
+  index: -1
+Light_Mouth
+  rotate: true
+  xy: 308, 57
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 300
+  size: 358, 36
+  orig: 358, 36
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 769, 296
+  size: 188, 140
+  orig: 188, 140
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 943, 487
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1

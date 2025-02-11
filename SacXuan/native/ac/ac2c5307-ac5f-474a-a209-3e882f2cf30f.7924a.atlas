@@ -1,0 +1,118 @@
+
+BG_Audience.png
+size: 880,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dad_Body
+  rotate: false
+  xy: 449, 126
+  size: 191, 73
+  orig: 191, 73
+  offset: 0, 0
+  index: -1
+Dad_Head
+  rotate: false
+  xy: 542, 10
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+Dad_L_Arm
+  rotate: true
+  xy: 628, 44
+  size: 58, 110
+  orig: 58, 110
+  offset: 0, 0
+  index: -1
+Dad_L_ForeArm
+  rotate: true
+  xy: 763, 71
+  size: 62, 103
+  orig: 62, 103
+  offset: 0, 0
+  index: -1
+Dad_L_Hand
+  rotate: false
+  xy: 829, 216
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+Dad_L_Hand2
+  rotate: true
+  xy: 628, 2
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Dad_Nor_Body
+  rotate: false
+  xy: 449, 201
+  size: 196, 99
+  orig: 196, 99
+  offset: 0, 0
+  index: -1
+Dad_R_Arm
+  rotate: false
+  xy: 740, 19
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+Dad_R_ForeArm
+  rotate: true
+  xy: 788, 135
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: -1
+Dad_R_Hand
+  rotate: true
+  xy: 799, 25
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+Sofa2
+  rotate: false
+  xy: 2, 4
+  size: 445, 296
+  orig: 445, 296
+  offset: 0, 0
+  index: -1
+Son_Body
+  rotate: false
+  xy: 647, 224
+  size: 180, 76
+  orig: 180, 76
+  offset: 0, 0
+  index: -1
+Son_Head
+  rotate: false
+  xy: 449, 10
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+Son_Nor_Hand
+  rotate: true
+  xy: 647, 170
+  size: 52, 139
+  orig: 52, 139
+  offset: 0, 0
+  index: -1
+Son_R_Hand
+  rotate: true
+  xy: 642, 104
+  size: 64, 119
+  orig: 64, 119
+  offset: 0, 0
+  index: -1
+String
+  rotate: true
+  xy: 449, 4
+  size: 4, 42
+  orig: 4, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+freespin2.png
+size: 288,161
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flare-Lens-PNG-Picture
+  rotate: true
+  xy: 168, 4
+  size: 38, 37
+  orig: 43, 44
+  offset: 3, 4
+  index: -1
+Group 1
+  rotate: true
+  xy: 93, 44
+  size: 115, 70
+  orig: 117, 72
+  offset: 1, 1
+  index: -1
+Group 2
+  rotate: true
+  xy: 165, 44
+  size: 115, 52
+  orig: 117, 54
+  offset: 1, 1
+  index: -1
+Layer 110 copy
+  rotate: true
+  xy: 2, 42
+  size: 117, 89
+  orig: 119, 91
+  offset: 1, 1
+  index: -1
+Layer 13
+  rotate: true
+  xy: 219, 50
+  size: 109, 67
+  orig: 111, 69
+  offset: 1, 1
+  index: -1
+freespin
+  rotate: false
+  xy: 2, 2
+  size: 164, 38
+  orig: 168, 40
+  offset: 2, 1
+  index: -1

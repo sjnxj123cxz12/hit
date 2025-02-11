@@ -1,0 +1,55 @@
+
+logo.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+chan 1
+  rotate: false
+  xy: 465, 82
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 380, 43
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+locthu
+  rotate: false
+  xy: 2, 37
+  size: 256, 81
+  orig: 256, 81
+  offset: 0, 0
+  index: -1
+matnham
+  rotate: false
+  xy: 30, 25
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+rau
+  rotate: false
+  xy: 380, 27
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+rong
+  rotate: false
+  xy: 260, 26
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1

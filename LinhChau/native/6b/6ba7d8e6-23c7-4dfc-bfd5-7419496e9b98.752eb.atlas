@@ -1,0 +1,209 @@
+
+Btn_TrialMode.png
+size: 504,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dia
+  rotate: true
+  xy: 152, 63
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+Dia_Glow
+  rotate: true
+  xy: 185, 63
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: true
+  xy: 2, 21
+  size: 118, 60
+  orig: 118, 60
+  offset: 0, 0
+  index: -1
+Keo
+  rotate: false
+  xy: 239, 69
+  size: 28, 19
+  orig: 31, 19
+  offset: 2, 0
+  index: -1
+Keo_Vang
+  rotate: false
+  xy: 269, 69
+  size: 28, 19
+  orig: 31, 19
+  offset: 2, 0
+  index: -1
+Smoke/Smoke_01
+  rotate: false
+  xy: 15, 12
+  size: 7, 7
+  orig: 67, 67
+  offset: 28, 28
+  index: -1
+Smoke/Smoke_02
+  rotate: true
+  xy: 2, 5
+  size: 14, 11
+  orig: 67, 67
+  offset: 25, 26
+  index: -1
+Smoke/Smoke_03
+  rotate: true
+  xy: 218, 65
+  size: 23, 19
+  orig: 67, 67
+  offset: 19, 22
+  index: -1
+Smoke/Smoke_04
+  rotate: true
+  xy: 347, 10
+  size: 28, 26
+  orig: 67, 67
+  offset: 17, 18
+  index: -1
+Smoke/Smoke_05
+  rotate: true
+  xy: 312, 3
+  size: 35, 33
+  orig: 67, 67
+  offset: 14, 15
+  index: -1
+Smoke/Smoke_06
+  rotate: false
+  xy: 459, 10
+  size: 38, 37
+  orig: 67, 67
+  offset: 13, 13
+  index: -1
+Smoke/Smoke_07
+  rotate: false
+  xy: 415, 2
+  size: 42, 40
+  orig: 67, 67
+  offset: 11, 12
+  index: -1
+Smoke/Smoke_08
+  rotate: false
+  xy: 459, 97
+  size: 43, 42
+  orig: 67, 67
+  offset: 11, 11
+  index: -1
+Smoke/Smoke_09
+  rotate: false
+  xy: 412, 95
+  size: 45, 44
+  orig: 67, 67
+  offset: 10, 10
+  index: -1
+Smoke/Smoke_10
+  rotate: true
+  xy: 408, 44
+  size: 46, 44
+  orig: 67, 67
+  offset: 10, 10
+  index: -1
+Smoke/Smoke_11
+  rotate: true
+  xy: 365, 92
+  size: 47, 45
+  orig: 67, 67
+  offset: 9, 10
+  index: -1
+Smoke/Smoke_12
+  rotate: true
+  xy: 317, 92
+  size: 47, 46
+  orig: 67, 67
+  offset: 9, 9
+  index: -1
+Smoke/Smoke_13
+  rotate: true
+  xy: 360, 43
+  size: 47, 46
+  orig: 67, 67
+  offset: 9, 9
+  index: -1
+Smoke/Smoke_14
+  rotate: true
+  xy: 312, 40
+  size: 48, 46
+  orig: 67, 67
+  offset: 9, 9
+  index: -1
+Smoke/Smoke_15
+  rotate: true
+  xy: 268, 90
+  size: 49, 47
+  orig: 67, 67
+  offset: 8, 9
+  index: -1
+Smoke/Smoke_16
+  rotate: true
+  xy: 64, 2
+  size: 49, 48
+  orig: 67, 67
+  offset: 8, 8
+  index: -1
+Smoke/Smoke_17
+  rotate: true
+  xy: 114, 2
+  size: 49, 48
+  orig: 67, 67
+  offset: 8, 8
+  index: -1
+Smoke/Smoke_18
+  rotate: true
+  xy: 214, 12
+  size: 49, 48
+  orig: 67, 67
+  offset: 8, 8
+  index: -1
+Smoke/Smoke_19
+  rotate: true
+  xy: 218, 90
+  size: 49, 48
+  orig: 67, 67
+  offset: 8, 8
+  index: -1
+Smoke/Smoke_20
+  rotate: true
+  xy: 264, 18
+  size: 49, 46
+  orig: 67, 67
+  offset: 8, 9
+  index: -1
+Text
+  rotate: true
+  xy: 454, 49
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+Text_B
+  rotate: true
+  xy: 164, 11
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+eff_particle
+  rotate: false
+  xy: 375, 3
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+roar_wave
+  rotate: false
+  xy: 64, 53
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1

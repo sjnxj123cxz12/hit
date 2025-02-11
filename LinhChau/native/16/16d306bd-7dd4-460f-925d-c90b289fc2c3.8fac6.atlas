@@ -1,0 +1,20 @@
+
+9848_VFX_Text_Hover.png
+size: 124,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Txt
+  rotate: false
+  xy: 2, 98
+  size: 120, 22
+  orig: 120, 22
+  offset: 0, 0
+  index: -1
+Txt_noS
+  rotate: false
+  xy: 2, 76
+  size: 118, 20
+  orig: 118, 20
+  offset: 0, 0
+  index: -1

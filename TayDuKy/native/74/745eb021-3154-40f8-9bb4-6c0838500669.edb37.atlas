@@ -1,0 +1,34 @@
+
+bonusx5.png
+size: 338,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 7
+  rotate: false
+  xy: 196, 43
+  size: 140, 146
+  orig: 140, 146
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 233, 11
+  size: 30, 30
+  orig: 33, 32
+  offset: 2, 1
+  index: -1
+Layer 9 copy 8
+  rotate: false
+  xy: 196, 6
+  size: 35, 35
+  orig: 37, 37
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 192, 187
+  orig: 196, 191
+  offset: 2, 3
+  index: -1

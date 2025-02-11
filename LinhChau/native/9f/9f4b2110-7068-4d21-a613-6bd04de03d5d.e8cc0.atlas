@@ -1,0 +1,181 @@
+
+9848_Symbol_JP.png
+size: 448,448
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coin1
+  rotate: false
+  xy: 355, 48
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+Coin10
+  rotate: false
+  xy: 286, 8
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Coin11
+  rotate: false
+  xy: 241, 208
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+Coin12
+  rotate: false
+  xy: 386, 6
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Coin13
+  rotate: false
+  xy: 250, 77
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Coin14
+  rotate: false
+  xy: 354, 213
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+Coin15
+  rotate: false
+  xy: 354, 257
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+Coin16
+  rotate: false
+  xy: 184, 19
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Coin2
+  rotate: false
+  xy: 366, 87
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Coin3
+  rotate: false
+  xy: 304, 50
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+Coin4
+  rotate: false
+  xy: 240, 2
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+Coin5
+  rotate: false
+  xy: 184, 75
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+Coin6
+  rotate: false
+  xy: 336, 7
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+Coin7
+  rotate: false
+  xy: 241, 258
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+Coin8
+  rotate: false
+  xy: 393, 347
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+Coin9
+  rotate: false
+  xy: 306, 258
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+FX1
+  rotate: false
+  xy: 2, 208
+  size: 237, 238
+  orig: 237, 238
+  offset: 0, 0
+  index: -1
+Gold1
+  rotate: false
+  xy: 298, 208
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+Gold2
+  rotate: false
+  xy: 304, 89
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+Particle
+  rotate: false
+  xy: 2, 17
+  size: 180, 189
+  orig: 180, 189
+  offset: 0, 0
+  index: -1
+Spark
+  rotate: false
+  xy: 393, 325
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: false
+  xy: 375, 386
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Table
+  rotate: false
+  xy: 184, 131
+  size: 213, 75
+  orig: 213, 75
+  offset: 0, 0
+  index: -1
+Tree
+  rotate: false
+  xy: 241, 354
+  size: 132, 92
+  orig: 132, 92
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 241, 306
+  size: 150, 46
+  orig: 150, 46
+  offset: 0, 0
+  index: -1

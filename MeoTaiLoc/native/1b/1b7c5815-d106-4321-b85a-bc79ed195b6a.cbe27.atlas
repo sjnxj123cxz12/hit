@@ -1,0 +1,174 @@
+
+Btn_TrialMode.png
+size: 345,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Choi
+  rotate: true
+  xy: 302, 69
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+Gold_Bot
+  rotate: false
+  xy: 302, 124
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+Gold_Top
+  rotate: true
+  xy: 328, 185
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+Light/Light_01
+  rotate: false
+  xy: 96, 307
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Light/Light_02
+  rotate: false
+  xy: 178, 307
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Light/Light_03
+  rotate: false
+  xy: 260, 307
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Light/Light_04
+  rotate: false
+  xy: 96, 226
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Light/Light_05
+  rotate: false
+  xy: 2, 224
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Light/Light_06
+  rotate: false
+  xy: 178, 226
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Light/Light_07
+  rotate: false
+  xy: 260, 226
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Light/Light_08
+  rotate: true
+  xy: 84, 144
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Light/Light_09
+  rotate: false
+  xy: 2, 143
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Light/Light_10
+  rotate: true
+  xy: 84, 62
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Light/Light_11
+  rotate: false
+  xy: 2, 62
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Light/Light_12
+  rotate: true
+  xy: 165, 144
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Light/Light_13
+  rotate: true
+  xy: 165, 62
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Light/Light_14
+  rotate: false
+  xy: 246, 145
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Page_Back
+  rotate: true
+  xy: 252, 8
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+Page_ChoiThat
+  rotate: true
+  xy: 86, 6
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+Page_ChoiThat_Add
+  rotate: true
+  xy: 169, 6
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+Page_ChoiThu
+  rotate: false
+  xy: 246, 62
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+Page_Front
+  rotate: true
+  xy: 2, 2
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1
+That
+  rotate: false
+  xy: 302, 103
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+cal_handle
+  rotate: true
+  xy: 2, 305
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1

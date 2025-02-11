@@ -1,0 +1,131 @@
+
+TNK-Lobby-P10000.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7.TNK-2/Spine/Lobby/P10000/images/1
+  rotate: false
+  xy: 597, 819
+  size: 151, 203
+  orig: 151, 203
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/10
+  rotate: true
+  xy: 597, 653
+  size: 164, 98
+  orig: 164, 98
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/11
+  rotate: false
+  xy: 750, 960
+  size: 184, 62
+  orig: 184, 62
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/12
+  rotate: false
+  xy: 176, 99
+  size: 166, 153
+  orig: 166, 153
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/13
+  rotate: false
+  xy: 750, 854
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/14
+  rotate: false
+  xy: 344, 178
+  size: 164, 74
+  orig: 164, 74
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/15
+  rotate: false
+  xy: 2, 2
+  size: 219, 61
+  orig: 219, 61
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/16
+  rotate: false
+  xy: 597, 298
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/17
+  rotate: true
+  xy: 510, 173
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/3
+  rotate: false
+  xy: 2, 65
+  size: 172, 187
+  orig: 172, 187
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/4
+  rotate: false
+  xy: 2, 254
+  size: 593, 768
+  orig: 593, 768
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/5
+  rotate: false
+  xy: 176, 83
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/6
+  rotate: false
+  xy: 597, 515
+  size: 98, 136
+  orig: 98, 136
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/7
+  rotate: true
+  xy: 597, 400
+  size: 113, 101
+  orig: 113, 101
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/8
+  rotate: true
+  xy: 697, 685
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/9
+  rotate: false
+  xy: 344, 103
+  size: 113, 73
+  orig: 113, 73
+  offset: 0, 0
+  index: -1
+
+TNK-Lobby-P100002.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7.TNK-2/Spine/Lobby/P10000/images/2
+  rotate: false
+  xy: 2, 2
+  size: 564, 639
+  orig: 564, 639
+  offset: 0, 0
+  index: -1

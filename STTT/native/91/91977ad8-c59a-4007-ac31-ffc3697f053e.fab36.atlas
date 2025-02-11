@@ -1,0 +1,13 @@
+
+TienCa-Vongfx.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slots/TienCa/image/Ingame/fx-vong
+  rotate: false
+  xy: 2, 2
+  size: 227, 252
+  orig: 227, 252
+  offset: 0, 0
+  index: -1

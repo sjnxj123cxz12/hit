@@ -1,0 +1,468 @@
+
+1999_BanCa_Banner.png
+size: 1063,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Fish2
+  rotate: false
+  xy: 625, 834
+  size: 189, 196
+  orig: 189, 196
+  offset: 0, 0
+  index: -1
+Body_Fish2_light
+  rotate: false
+  xy: 625, 636
+  size: 189, 196
+  orig: 189, 196
+  offset: 0, 0
+  index: -1
+Bullet_Fish1
+  rotate: true
+  xy: 1036, 438
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Bullet_Fish2
+  rotate: true
+  xy: 1036, 403
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+Fx/10 (1)
+  rotate: true
+  xy: 816, 706
+  size: 94, 240
+  orig: 94, 240
+  offset: 0, 0
+  index: -1
+Fx/10 (2)
+  rotate: true
+  xy: 625, 514
+  size: 120, 165
+  orig: 120, 165
+  offset: 0, 0
+  index: -1
+Fx/10 (3)
+  rotate: true
+  xy: 449, 260
+  size: 99, 114
+  orig: 99, 114
+  offset: 0, 0
+  index: -1
+Fx/10 (6)
+  rotate: false
+  xy: 140, 7
+  size: 75, 80
+  orig: 75, 80
+  offset: 0, 0
+  index: -1
+Fx/548 (1)
+  rotate: false
+  xy: 321, 361
+  size: 101, 126
+  orig: 101, 126
+  offset: 0, 0
+  index: -1
+Fx/548 (2)
+  rotate: false
+  xy: 424, 361
+  size: 101, 126
+  orig: 101, 126
+  offset: 0, 0
+  index: -1
+Fx/548 (3)
+  rotate: true
+  xy: 321, 258
+  size: 101, 126
+  orig: 101, 126
+  offset: 0, 0
+  index: -1
+Fx/548 (4)
+  rotate: false
+  xy: 527, 361
+  size: 101, 126
+  orig: 101, 126
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00000
+  rotate: true
+  xy: 792, 544
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00030
+  rotate: true
+  xy: 792, 544
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00002
+  rotate: false
+  xy: 630, 377
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00004
+  rotate: false
+  xy: 696, 377
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00006
+  rotate: true
+  xy: 792, 478
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00008
+  rotate: false
+  xy: 929, 473
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00010
+  rotate: false
+  xy: 995, 473
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00012
+  rotate: true
+  xy: 762, 412
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00014
+  rotate: true
+  xy: 762, 346
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00016
+  rotate: true
+  xy: 899, 407
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00018
+  rotate: true
+  xy: 899, 341
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00020
+  rotate: false
+  xy: 565, 224
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00022
+  rotate: false
+  xy: 631, 240
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00024
+  rotate: false
+  xy: 312, 111
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00026
+  rotate: false
+  xy: 378, 121
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00028
+  rotate: false
+  xy: 444, 121
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00032
+  rotate: true
+  xy: 378, 55
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00034
+  rotate: true
+  xy: 744, 280
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00036
+  rotate: true
+  xy: 881, 275
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00038
+  rotate: true
+  xy: 510, 158
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00040
+  rotate: true
+  xy: 515, 92
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00042
+  rotate: true
+  xy: 515, 26
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00044
+  rotate: true
+  xy: 697, 214
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00046
+  rotate: true
+  xy: 834, 209
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00048
+  rotate: false
+  xy: 971, 138
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00050
+  rotate: false
+  xy: 652, 77
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00052
+  rotate: false
+  xy: 718, 77
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00054
+  rotate: true
+  xy: 652, 11
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00056
+  rotate: true
+  xy: 784, 143
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Smoke_00058
+  rotate: true
+  xy: 784, 77
+  size: 64, 135
+  orig: 64, 135
+  offset: 0, 0
+  index: -1
+Fx/Vetdan1
+  rotate: true
+  xy: 250, 22
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+Fx/Vetdan2
+  rotate: false
+  xy: 312, 62
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+Gun2_Fish2
+  rotate: false
+  xy: 789, 4
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Gun_Back_Fish2
+  rotate: false
+  xy: 921, 33
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+Gun_Fish2
+  rotate: false
+  xy: 2, 2
+  size: 136, 85
+  orig: 136, 85
+  offset: 0, 0
+  index: -1
+Hair_Fish2
+  rotate: true
+  xy: 217, 29
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+Hand_Fish2
+  rotate: true
+  xy: 862, 7
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+Hand_Fish2_light
+  rotate: true
+  xy: 1010, 68
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+Hand_Gun_Fish2
+  rotate: false
+  xy: 1010, 38
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+Khung
+  rotate: true
+  xy: 257, 248
+  size: 256, 62
+  orig: 256, 62
+  offset: 0, 0
+  index: -1
+KhungLon
+  rotate: false
+  xy: 2, 506
+  size: 338, 524
+  orig: 338, 524
+  offset: 0, 0
+  index: -1
+Light3
+  rotate: false
+  xy: 342, 489
+  size: 270, 27
+  orig: 270, 27
+  offset: 0, 0
+  index: -1
+Logo
+  rotate: false
+  xy: 816, 917
+  size: 233, 113
+  orig: 233, 113
+  offset: 0, 0
+  index: -1
+Logo_Light
+  rotate: false
+  xy: 816, 802
+  size: 233, 113
+  orig: 233, 113
+  offset: 0, 0
+  index: -1
+Nhận Lì Xì
+  rotate: true
+  xy: 257, 74
+  size: 172, 53
+  orig: 172, 53
+  offset: 0, 0
+  index: -1
+Water1
+  rotate: false
+  xy: 342, 762
+  size: 281, 268
+  orig: 281, 268
+  offset: 0, 0
+  index: -1
+Water2
+  rotate: false
+  xy: 342, 612
+  size: 281, 148
+  orig: 281, 148
+  offset: 0, 0
+  index: -1
+Water3
+  rotate: false
+  xy: 342, 518
+  size: 281, 92
+  orig: 281, 92
+  offset: 0, 0
+  index: -1
+Xiga2_Fish2
+  rotate: false
+  xy: 321, 489
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Xiga_Fish2
+  rotate: true
+  xy: 762, 482
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+banca_background
+  rotate: false
+  xy: 2, 89
+  size: 253, 415
+  orig: 253, 415
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 921, 121
+  size: 41, 86
+  orig: 41, 86
+  offset: 0, 0
+  index: -1
+euro2024
+  rotate: false
+  xy: 816, 610
+  size: 229, 94
+  orig: 229, 94
+  offset: 0, 0
+  index: -1
+non_than_tai
+  rotate: true
+  xy: 697, 283
+  size: 92, 45
+  orig: 92, 45
+  offset: 0, 0
+  index: -1

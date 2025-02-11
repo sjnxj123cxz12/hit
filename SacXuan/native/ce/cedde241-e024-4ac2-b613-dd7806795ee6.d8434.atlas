@@ -1,0 +1,230 @@
+
+UI_Jackpot_Frame.png
+size: 977,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 421, 15
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 786, 118
+  size: 76, 51
+  orig: 76, 51
+  offset: 0, 0
+  index: -1
+C
+  rotate: true
+  xy: 534, 5
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 449, 33
+  size: 253, 80
+  orig: 253, 80
+  offset: 0, 0
+  index: -1
+G1
+  rotate: true
+  xy: 191, 16
+  size: 27, 80
+  orig: 27, 80
+  offset: 0, 0
+  index: -1
+G2
+  rotate: true
+  xy: 2, 9
+  size: 34, 101
+  orig: 34, 101
+  offset: 0, 0
+  index: -1
+G3
+  rotate: false
+  xy: 915, 183
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+G4
+  rotate: false
+  xy: 273, 18
+  size: 80, 25
+  orig: 80, 25
+  offset: 0, 0
+  index: -1
+G5
+  rotate: true
+  xy: 355, 14
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+G6
+  rotate: true
+  xy: 105, 7
+  size: 36, 84
+  orig: 36, 84
+  offset: 0, 0
+  index: -1
+G7
+  rotate: true
+  xy: 939, 58
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+G8
+  rotate: true
+  xy: 942, 114
+  size: 67, 20
+  orig: 67, 20
+  offset: 0, 0
+  index: -1
+Inner_Glow
+  rotate: false
+  xy: 704, 2
+  size: 227, 52
+  orig: 227, 52
+  offset: 0, 0
+  index: -1
+J
+  rotate: true
+  xy: 500, 6
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+K
+  rotate: true
+  xy: 564, 5
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Lamp_2
+  rotate: true
+  xy: 915, 205
+  size: 233, 57
+  orig: 233, 57
+  offset: 0, 0
+  index: -1
+Lamp_2_G
+  rotate: false
+  xy: 704, 56
+  size: 233, 57
+  orig: 233, 57
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 786, 171
+  size: 267, 127
+  orig: 267, 127
+  offset: 0, 0
+  index: -1
+Light_Back_2
+  rotate: true
+  xy: 2, 45
+  size: 393, 445
+  orig: 395, 446
+  offset: 0, 1
+  index: -1
+O
+  rotate: true
+  xy: 594, 5
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+P
+  rotate: true
+  xy: 623, 5
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+Piece_Ball/Piece_A
+  rotate: false
+  xy: 864, 119
+  size: 76, 50
+  orig: 76, 50
+  offset: 0, 0
+  index: -1
+Piece_Ball/Piece_B
+  rotate: false
+  xy: 933, 8
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Piece_Ball/Piece_C
+  rotate: false
+  xy: 933, 27
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+Piece_Ball/Piece_D
+  rotate: false
+  xy: 449, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Piece_Ball/Piece_E
+  rotate: false
+  xy: 682, 5
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Piece_Ball/Piece_F
+  rotate: true
+  xy: 959, 91
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+Piece_Ball/Piece_G
+  rotate: true
+  xy: 481, 2
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+Piece_Ball/Piece_H
+  rotate: true
+  xy: 915, 171
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 449, 115
+  size: 335, 323
+  orig: 335, 323
+  offset: 0, 0
+  index: -1
+T
+  rotate: true
+  xy: 652, 6
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+lamp
+  rotate: true
+  xy: 2, 2
+  size: 5, 52
+  orig: 7, 52
+  offset: 1, 0
+  index: -1

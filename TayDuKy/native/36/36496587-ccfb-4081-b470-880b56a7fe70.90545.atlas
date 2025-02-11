@@ -1,0 +1,41 @@
+
+TNK-Lobby-ChoiThu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7.TNK-2/Spine/Lobby/ChoiThu/images/1
+  rotate: true
+  xy: 2, 173
+  size: 325, 527
+  orig: 325, 527
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/ChoiThu/images/2
+  rotate: false
+  xy: 2, 2
+  size: 163, 78
+  orig: 163, 78
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/ChoiThu/images/3
+  rotate: false
+  xy: 531, 327
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/ChoiThu/images/4
+  rotate: true
+  xy: 2, 82
+  size: 89, 527
+  orig: 89, 527
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/ChoiThu/images/5
+  rotate: false
+  xy: 531, 384
+  size: 192, 114
+  orig: 192, 114
+  offset: 0, 0
+  index: -1

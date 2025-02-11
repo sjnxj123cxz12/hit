@@ -1,0 +1,62 @@
+
+lon.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AN
+  rotate: true
+  xy: 306, 5
+  size: 113, 121
+  orig: 113, 121
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 155, 108
+  size: 149, 143
+  orig: 149, 143
+  offset: 0, 0
+  index: -1
+VONG
+  rotate: false
+  xy: 306, 120
+  size: 140, 131
+  orig: 140, 131
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 94
+  size: 151, 157
+  orig: 151, 157
+  offset: 0, 0
+  index: -1
+nguoi
+  rotate: true
+  xy: 2, 2
+  size: 90, 97
+  orig: 90, 97
+  offset: 0, 0
+  index: -1
+tai 1
+  rotate: false
+  xy: 448, 210
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+tai 2
+  rotate: false
+  xy: 101, 61
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+tien
+  rotate: false
+  xy: 448, 188
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1

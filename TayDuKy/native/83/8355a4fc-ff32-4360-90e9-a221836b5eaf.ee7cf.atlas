@@ -1,0 +1,33 @@
+bonus2.png
+size: 223,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bonus copy
+  rotate: true
+  xy: 128, 2
+  size: 118, 32
+  orig: 120, 34
+  offset: 1, 1
+  index: -1
+Layer 1
+  rotate: false
+  xy: 162, 50
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+Layer 116 copy
+  rotate: true
+  xy: 2, 2
+  size: 118, 124
+  orig: 120, 126
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 162, 4
+  size: 59, 44
+  orig: 61, 46
+  offset: 1, 1
+  index: -1

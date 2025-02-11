@@ -1,0 +1,69 @@
+
+jackpot_BC.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bau
+  rotate: false
+  xy: 690, 267
+  size: 150, 163
+  orig: 150, 163
+  offset: 0, 0
+  index: -1
+Cua
+  rotate: true
+  xy: 842, 189
+  size: 149, 162
+  orig: 149, 162
+  offset: 0, 0
+  index: -1
+Tom
+  rotate: false
+  xy: 842, 340
+  size: 150, 163
+  orig: 150, 163
+  offset: 0, 0
+  index: -1
+bor_money
+  rotate: false
+  xy: 374, 432
+  size: 436, 71
+  orig: 436, 71
+  offset: 0, 0
+  index: -1
+chenup_glow
+  rotate: false
+  xy: 2, 115
+  size: 278, 228
+  orig: 278, 228
+  offset: 0, 0
+  index: -1
+efect_light1
+  rotate: true
+  xy: 282, 206
+  size: 137, 67
+  orig: 137, 67
+  offset: 0, 0
+  index: -1
+lighh2
+  rotate: false
+  xy: 2, 2
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+thanglon
+  rotate: false
+  xy: 374, 294
+  size: 314, 136
+  orig: 314, 136
+  offset: 0, 0
+  index: -1
+thangsieulon
+  rotate: false
+  xy: 2, 345
+  size: 370, 158
+  orig: 370, 158
+  offset: 0, 0
+  index: -1

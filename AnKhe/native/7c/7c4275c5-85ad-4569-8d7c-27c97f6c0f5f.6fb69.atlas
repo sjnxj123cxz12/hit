@@ -1,0 +1,27 @@
+
+TNK-Bonus.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7.TNK-2/Image/Bonus Game/FX1
+  rotate: false
+  xy: 2, 2
+  size: 432, 432
+  orig: 432, 432
+  offset: 0, 0
+  index: -1
+7.TNK-2/Image/Bonus Game/linhdon
+  rotate: false
+  xy: 803, 252
+  size: 188, 182
+  orig: 188, 182
+  offset: 0, 0
+  index: -1
+7.TNK-2/Image/Bonus Game/lobatquai
+  rotate: false
+  xy: 436, 54
+  size: 365, 380
+  orig: 365, 380
+  offset: 0, 0
+  index: -1

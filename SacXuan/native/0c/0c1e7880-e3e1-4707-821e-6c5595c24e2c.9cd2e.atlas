@@ -1,0 +1,125 @@
+
+UI_TotalWin_Frame.png
+size: 1004,626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blur
+  rotate: false
+  xy: 877, 184
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+FX/FX_01
+  rotate: false
+  xy: 2, 218
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+FX/FX_02
+  rotate: false
+  xy: 2, 218
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+FX/FX_03
+  rotate: false
+  xy: 2, 10
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+FX/FX_04
+  rotate: false
+  xy: 380, 418
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+FX/FX_05
+  rotate: false
+  xy: 588, 418
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+FX/FX_06
+  rotate: false
+  xy: 796, 418
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+FX/FX_07
+  rotate: false
+  xy: 210, 210
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+FX/FX_08
+  rotate: false
+  xy: 418, 210
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+FX/FX_09
+  rotate: false
+  xy: 626, 210
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+FX/FX_10
+  rotate: false
+  xy: 210, 2
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+FX/FX_11
+  rotate: false
+  xy: 418, 2
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+FX/FX_12
+  rotate: false
+  xy: 626, 2
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 2, 526
+  size: 376, 98
+  orig: 376, 98
+  offset: 0, 0
+  index: -1
+Frame_Glow_A
+  rotate: false
+  xy: 834, 293
+  size: 117, 123
+  orig: 117, 123
+  offset: 0, 0
+  index: -1
+Frame_Shadow
+  rotate: true
+  xy: 834, 97
+  size: 194, 41
+  orig: 194, 41
+  offset: 0, 0
+  index: -1
+Texture
+  rotate: false
+  xy: 2, 426
+  size: 376, 98
+  orig: 376, 98
+  offset: 0, 0
+  index: -1

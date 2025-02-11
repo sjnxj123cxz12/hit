@@ -1,0 +1,27 @@
+
+Btn_TrialMode.png
+size: 108,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Note_That
+  rotate: false
+  xy: 2, 7
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+Note_Thu
+  rotate: true
+  xy: 54, 9
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+Tape
+  rotate: false
+  xy: 54, 2
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1

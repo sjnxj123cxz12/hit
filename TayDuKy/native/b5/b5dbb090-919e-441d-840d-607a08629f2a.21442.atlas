@@ -1,0 +1,55 @@
+
+muc4.png
+size: 204,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asang
+  rotate: false
+  xy: 155, 137
+  size: 29, 29
+  orig: 33, 33
+  offset: 2, 2
+  index: -1
+chan
+  rotate: true
+  xy: 155, 168
+  size: 99, 47
+  orig: 101, 51
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 2, 130
+  size: 151, 137
+  orig: 153, 139
+  offset: 1, 1
+  index: -1
+rau
+  rotate: false
+  xy: 138, 12
+  size: 35, 36
+  orig: 35, 37
+  offset: 0, 1
+  index: -1
+tay
+  rotate: false
+  xy: 138, 50
+  size: 62, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 2
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+toc
+  rotate: true
+  xy: 175, 6
+  size: 42, 23
+  orig: 42, 24
+  offset: 0, 1
+  index: -1

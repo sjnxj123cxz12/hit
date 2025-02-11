@@ -1,0 +1,27 @@
+
+Bonus-FreeSpine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Image/FX/Explosion
+  rotate: false
+  xy: 2, 119
+  size: 778, 790
+  orig: 778, 790
+  offset: 0, 0
+  index: -1
+Image/FX/bonus-game
+  rotate: false
+  xy: 2, 2
+  size: 736, 115
+  orig: 736, 115
+  offset: 0, 0
+  index: -1
+Image/FX/freespin
+  rotate: true
+  xy: 782, 333
+  size: 576, 113
+  orig: 576, 113
+  offset: 0, 0
+  index: -1

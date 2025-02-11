@@ -1,0 +1,13 @@
+
+9848_VFX_Scroll_Stopping.png
+size: 500,498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Outter_Glow
+  rotate: false
+  xy: 2, 337
+  size: 496, 159
+  orig: 496, 159
+  offset: 0, 0
+  index: -1

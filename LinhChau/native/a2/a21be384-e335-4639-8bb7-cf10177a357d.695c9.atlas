@@ -1,0 +1,258 @@
+
+9848_Symbol_K.png
+size: 508,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mscot_Collar
+  rotate: false
+  xy: 292, 273
+  size: 109, 47
+  orig: 109, 47
+  offset: 0, 0
+  index: -1
+Mscot_Eb_L
+  rotate: false
+  xy: 403, 258
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+Mscot_Eb_L_Close
+  rotate: false
+  xy: 139, 47
+  size: 66, 24
+  orig: 66, 24
+  offset: 0, 0
+  index: -1
+Mscot_Eb_R
+  rotate: false
+  xy: 397, 146
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Mscot_Eye_Cen_L
+  rotate: false
+  xy: 179, 2
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+Mscot_Eye_Cen_R
+  rotate: false
+  xy: 263, 6
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Mscot_Eye_Glow_L
+  rotate: false
+  xy: 492, 493
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Mscot_Eye_Glow_R
+  rotate: false
+  xy: 388, 259
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Mscot_Eye_L
+  rotate: false
+  xy: 221, 3
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+Mscot_Eye_R
+  rotate: false
+  xy: 443, 90
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Mscot_Eyelid_L
+  rotate: false
+  xy: 388, 194
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+Mscot_Eyelid_R
+  rotate: false
+  xy: 445, 132
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Mscot_Hat
+  rotate: false
+  xy: 2, 52
+  size: 135, 103
+  orig: 135, 103
+  offset: 0, 0
+  index: -1
+Mscot_Hat_L
+  rotate: false
+  xy: 207, 48
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+Mscot_Hat_R
+  rotate: false
+  xy: 292, 218
+  size: 94, 53
+  orig: 94, 53
+  offset: 0, 0
+  index: -1
+Mscot_Head
+  rotate: false
+  xy: 292, 395
+  size: 162, 110
+  orig: 162, 110
+  offset: 0, 0
+  index: -1
+Mscot_Irise_L
+  rotate: false
+  xy: 461, 312
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+Mscot_Irise_R
+  rotate: false
+  xy: 131, 6
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+Mscot_Jaw
+  rotate: false
+  xy: 2, 13
+  size: 127, 37
+  orig: 127, 37
+  offset: 0, 0
+  index: -1
+Mscot_Mouth
+  rotate: false
+  xy: 282, 181
+  size: 91, 35
+  orig: 91, 35
+  offset: 0, 0
+  index: -1
+Mscot_Neck
+  rotate: false
+  xy: 292, 322
+  size: 163, 71
+  orig: 163, 71
+  offset: 0, 0
+  index: -1
+Mscot_Shirt
+  rotate: false
+  xy: 2, 157
+  size: 185, 108
+  orig: 185, 108
+  offset: 0, 0
+  index: -1
+Mscot_Tongue
+  rotate: false
+  xy: 422, 33
+  size: 22, 49
+  orig: 22, 49
+  offset: 0, 0
+  index: -1
+Shadow2
+  rotate: false
+  xy: 2, 267
+  size: 288, 238
+  orig: 288, 238
+  offset: 0, 0
+  index: -1
+WILD_D1
+  rotate: false
+  xy: 446, 180
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+WILD_D2
+  rotate: false
+  xy: 139, 73
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+WILD_D_Add
+  rotate: false
+  xy: 368, 40
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+WILD_I1
+  rotate: false
+  xy: 374, 117
+  size: 21, 62
+  orig: 21, 62
+  offset: 0, 0
+  index: -1
+WILD_I2
+  rotate: false
+  xy: 456, 426
+  size: 34, 79
+  orig: 34, 79
+  offset: 0, 0
+  index: -1
+WILD_I_Add
+  rotate: false
+  xy: 422, 84
+  size: 19, 60
+  orig: 19, 60
+  offset: 0, 0
+  index: -1
+WILD_L1
+  rotate: false
+  xy: 461, 362
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+WILD_L2
+  rotate: false
+  xy: 309, 30
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+WILD_L_Add
+  rotate: false
+  xy: 461, 250
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+WILD_W1
+  rotate: false
+  xy: 207, 104
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+WILD_W2
+  rotate: false
+  xy: 189, 179
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+WILD_W_Add
+  rotate: false
+  xy: 291, 108
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1

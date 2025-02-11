@@ -1,0 +1,69 @@
+
+9848_VFX_NearWin.png
+size: 341,339
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG2
+  rotate: true
+  xy: 2, 83
+  size: 62, 331
+  orig: 62, 331
+  offset: 0, 0
+  index: -1
+Dot
+  rotate: false
+  xy: 90, 39
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Frame_Y
+  rotate: false
+  xy: 2, 147
+  size: 227, 190
+  orig: 227, 190
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 8
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+Pattern_1
+  rotate: false
+  xy: 231, 230
+  size: 19, 48
+  orig: 19, 48
+  offset: 0, 0
+  index: -1
+Pattern_2
+  rotate: false
+  xy: 288, 289
+  size: 19, 48
+  orig: 19, 48
+  offset: 0, 0
+  index: -1
+Smoke
+  rotate: false
+  xy: 231, 280
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+Stroke2
+  rotate: false
+  xy: 335, 311
+  size: 4, 26
+  orig: 4, 26
+  offset: 0, 0
+  index: -1
+eff1
+  rotate: false
+  xy: 90, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

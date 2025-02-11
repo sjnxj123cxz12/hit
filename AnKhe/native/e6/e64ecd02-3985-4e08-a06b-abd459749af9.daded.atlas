@@ -1,0 +1,291 @@
+
+TNK-Ingame-Character.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7.TNK-2/Image/Coin-B79-TL/B10
+  rotate: false
+  xy: 1556, 10
+  size: 394, 379
+  orig: 1024, 576
+  offset: 318, 163
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B12
+  rotate: false
+  xy: 2, 3
+  size: 486, 474
+  orig: 1024, 576
+  offset: 271, 87
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B16
+  rotate: false
+  xy: 1351, 391
+  size: 689, 576
+  orig: 1024, 576
+  offset: 164, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B22
+  rotate: false
+  xy: 1028, 1475
+  size: 999, 568
+  orig: 1024, 576
+  offset: 24, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B23
+  rotate: false
+  xy: 2, 1485
+  size: 1024, 558
+  orig: 1024, 576
+  offset: 0, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B25
+  rotate: false
+  xy: 2, 958
+  size: 1024, 525
+  orig: 1024, 576
+  offset: 0, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B26
+  rotate: false
+  xy: 1028, 969
+  size: 993, 504
+  orig: 1024, 576
+  offset: 19, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B27
+  rotate: false
+  xy: 2, 479
+  size: 1024, 477
+  orig: 1024, 576
+  offset: 0, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B31
+  rotate: true
+  xy: 1028, 2
+  size: 965, 321
+  orig: 1024, 576
+  offset: 59, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B36
+  rotate: true
+  xy: 2029, 2015
+  size: 28, 14
+  orig: 1024, 576
+  offset: 188, 11
+  index: -1
+7.TNK-2/Image/FX/P1000
+  rotate: true
+  xy: 490, 32
+  size: 445, 427
+  orig: 526, 436
+  offset: 77, 0
+  index: -1
+7.TNK-2/Image/FX/super-bg-win--text
+  rotate: true
+  xy: 1351, 3
+  size: 386, 203
+  orig: 394, 220
+  offset: 4, 12
+  index: -1
+
+TNK-Ingame-Character2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7.TNK-2/Image/Coin-B79-TL/B06
+  rotate: true
+  xy: 1454, 26
+  size: 219, 214
+  orig: 1024, 576
+  offset: 406, 256
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B11
+  rotate: false
+  xy: 530, 1037
+  size: 440, 426
+  orig: 1024, 576
+  offset: 295, 127
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B13
+  rotate: true
+  xy: 2, 928
+  size: 535, 526
+  orig: 1024, 576
+  offset: 245, 42
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B20
+  rotate: false
+  xy: 996, 919
+  size: 926, 576
+  orig: 1024, 576
+  offset: 36, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B21
+  rotate: false
+  xy: 2, 1465
+  size: 992, 576
+  orig: 1024, 576
+  offset: 0, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B24
+  rotate: false
+  xy: 996, 1497
+  size: 981, 544
+  orig: 1024, 576
+  offset: 30, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B28
+  rotate: true
+  xy: 2, 5
+  size: 912, 446
+  orig: 1024, 576
+  offset: 112, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B29
+  rotate: false
+  xy: 1028, 507
+  size: 878, 410
+  orig: 1024, 576
+  offset: 109, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B30
+  rotate: true
+  xy: 450, 2
+  size: 924, 368
+  orig: 1024, 576
+  offset: 85, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B33
+  rotate: true
+  xy: 820, 9
+  size: 908, 206
+  orig: 1024, 576
+  offset: 0, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B35
+  rotate: true
+  xy: 1924, 195
+  size: 798, 88
+  orig: 1024, 576
+  offset: 139, 0
+  index: -1
+7.TNK-2/Image/FX/ChoiThu
+  rotate: true
+  xy: 1454, 247
+  size: 258, 422
+  orig: 258, 446
+  offset: 0, 16
+  index: -1
+7.TNK-2/Image/FX/P100
+  rotate: true
+  xy: 1028, 12
+  size: 493, 424
+  orig: 526, 436
+  offset: 3, 0
+  index: -1
+7.TNK-2/Image/FX/bigwin-text
+  rotate: true
+  xy: 1924, 995
+  size: 500, 117
+  orig: 507, 124
+  offset: 3, 4
+  index: -1
+7.TNK-2/Image/FX/nohu-text
+  rotate: false
+  xy: 1670, 44
+  size: 369, 149
+  orig: 507, 201
+  offset: 79, 48
+  index: -1
+
+TNK-Ingame-Character3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7.TNK-2/Image/Coin-B79-TL/B07
+  rotate: false
+  xy: 2, 2
+  size: 263, 253
+  orig: 1024, 576
+  offset: 384, 238
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B08
+  rotate: false
+  xy: 626, 22
+  size: 306, 293
+  orig: 1024, 576
+  offset: 363, 218
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B09
+  rotate: true
+  xy: 1687, 832
+  size: 350, 333
+  orig: 1024, 576
+  offset: 341, 195
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B14
+  rotate: false
+  xy: 626, 317
+  size: 584, 572
+  orig: 1024, 576
+  offset: 220, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B15
+  rotate: false
+  xy: 807, 891
+  size: 636, 576
+  orig: 1024, 576
+  offset: 192, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B17
+  rotate: false
+  xy: 866, 1469
+  size: 745, 576
+  orig: 1024, 576
+  offset: 134, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B18
+  rotate: false
+  xy: 2, 891
+  size: 803, 576
+  orig: 1024, 576
+  offset: 103, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B19
+  rotate: false
+  xy: 2, 1469
+  size: 862, 576
+  orig: 1024, 576
+  offset: 71, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B32
+  rotate: true
+  xy: 1613, 1184
+  size: 861, 267
+  orig: 1024, 576
+  offset: 31, 0
+  index: -1
+7.TNK-2/Image/Coin-B79-TL/B34
+  rotate: true
+  xy: 1882, 1289
+  size: 756, 148
+  orig: 1024, 576
+  offset: 159, 0
+  index: -1
+7.TNK-2/Image/FX/Explosion
+  rotate: false
+  xy: 2, 257
+  size: 622, 632
+  orig: 622, 632
+  offset: 0, 0
+  index: -1
+7.TNK-2/Image/FX/P10000
+  rotate: false
+  xy: 1212, 276
+  size: 473, 613
+  orig: 526, 644
+  offset: 53, 31
+  index: -1

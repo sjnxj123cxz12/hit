@@ -1,0 +1,223 @@
+
+9848_UI_BigWin.png
+size: 1270,1270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_Frame
+  rotate: false
+  xy: 2, 1070
+  size: 675, 198
+  orig: 675, 198
+  offset: 0, 0
+  index: -1
+Cloud_1
+  rotate: false
+  xy: 949, 91
+  size: 153, 89
+  orig: 153, 89
+  offset: 0, 0
+  index: -1
+Cloud_2
+  rotate: false
+  xy: 707, 50
+  size: 157, 138
+  orig: 157, 138
+  offset: 0, 0
+  index: -1
+Cloud_3
+  rotate: false
+  xy: 967, 182
+  size: 162, 59
+  orig: 162, 59
+  offset: 0, 0
+  index: -1
+Cloud_4
+  rotate: false
+  xy: 270, 65
+  size: 144, 71
+  orig: 144, 71
+  offset: 0, 0
+  index: -1
+Flower
+  rotate: false
+  xy: 985, 439
+  size: 205, 225
+  orig: 205, 225
+  offset: 0, 0
+  index: -1
+Flower_2
+  rotate: false
+  xy: 748, 190
+  size: 217, 247
+  orig: 217, 247
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 2, 891
+  size: 663, 177
+  orig: 663, 177
+  offset: 0, 0
+  index: -1
+Notiny/Glow
+  rotate: false
+  xy: 756, 439
+  size: 227, 225
+  orig: 227, 225
+  offset: 0, 0
+  index: -1
+Notiny/Glow_2
+  rotate: false
+  xy: 416, 386
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Notiny/Glow_B
+  rotate: false
+  xy: 2, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Notiny/Glow_G
+  rotate: false
+  xy: 707, 255
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Notiny/Glow_Toa
+  rotate: false
+  xy: 438, 270
+  size: 308, 307
+  orig: 308, 307
+  offset: 0, 0
+  index: -1
+Notiny/Line_Light
+  rotate: false
+  xy: 679, 929
+  size: 475, 180
+  orig: 475, 180
+  offset: 0, 0
+  index: -1
+Notiny/Shockwave_06
+  rotate: false
+  xy: 967, 243
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+Notiny/Star_Blue
+  rotate: false
+  xy: 2, 22
+  size: 132, 114
+  orig: 132, 114
+  offset: 0, 0
+  index: -1
+Notiny/Star_Green
+  rotate: false
+  xy: 866, 53
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+Notiny/Star_Purple
+  rotate: false
+  xy: 136, 22
+  size: 132, 114
+  orig: 132, 114
+  offset: 0, 0
+  index: -1
+Orange_1
+  rotate: false
+  xy: 1131, 129
+  size: 105, 94
+  orig: 105, 94
+  offset: 0, 0
+  index: -1
+Orange_2
+  rotate: false
+  xy: 1191, 1221
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+Red_Frame
+  rotate: false
+  xy: 438, 579
+  size: 316, 310
+  orig: 316, 310
+  offset: 0, 0
+  index: -1
+Temple1
+  rotate: false
+  xy: 679, 1111
+  size: 510, 157
+  orig: 510, 157
+  offset: 0, 0
+  index: -1
+Temple_2
+  rotate: false
+  xy: 1163, 225
+  size: 88, 212
+  orig: 88, 212
+  offset: 0, 0
+  index: -1
+Thang_Cuc_Lon
+  rotate: false
+  xy: 2, 138
+  size: 412, 261
+  orig: 412, 261
+  offset: 0, 0
+  index: -1
+Thang_Cuc_Lon_2
+  rotate: false
+  xy: 756, 666
+  size: 412, 261
+  orig: 412, 261
+  offset: 0, 0
+  index: -1
+Thang_Lon
+  rotate: false
+  xy: 416, 47
+  size: 289, 221
+  orig: 289, 221
+  offset: 0, 0
+  index: -1
+Thang_Sieu_Lon
+  rotate: false
+  xy: 2, 646
+  size: 434, 243
+  orig: 434, 243
+  offset: 0, 0
+  index: -1
+Thang_Sieu_Lon_2
+  rotate: false
+  xy: 2, 401
+  size: 434, 243
+  orig: 434, 243
+  offset: 0, 0
+  index: -1
+Vector
+  rotate: false
+  xy: 1156, 937
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+WaterMelon_1
+  rotate: false
+  xy: 1156, 998
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+WaterMelon_2
+  rotate: false
+  xy: 866, 113
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1

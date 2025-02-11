@@ -1,0 +1,1232 @@
+
+UI_Mascot.png
+size: 993,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow
+  rotate: true
+  xy: 889, 15
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: false
+  xy: 618, 2
+  size: 109, 111
+  orig: 109, 111
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 12
+  size: 294, 243
+  orig: 294, 243
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 298, 120
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+Circle_Dark
+  rotate: true
+  xy: 889, 44
+  size: 85, 84
+  orig: 85, 84
+  offset: 0, 0
+  index: -1
+Circle_Spin
+  rotate: false
+  xy: 902, 139
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Eyeball_L
+  rotate: false
+  xy: 415, 40
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Eyeball_R
+  rotate: false
+  xy: 435, 237
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+Eyeblink_L
+  rotate: true
+  xy: 962, 15
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Eyeblink_R
+  rotate: false
+  xy: 415, 14
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+Eyebrow_L
+  rotate: false
+  xy: 729, 10
+  size: 53, 17
+  orig: 53, 17
+  offset: 0, 0
+  index: -1
+Eyebrow_R
+  rotate: false
+  xy: 959, 242
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+Eyelash_L
+  rotate: true
+  xy: 942, 265
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+Eyelash_R
+  rotate: true
+  xy: 927, 13
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Eyelight_L
+  rotate: false
+  xy: 717, 122
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+Eyelight_R
+  rotate: false
+  xy: 2, 2
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+Eyewhite_L
+  rotate: false
+  xy: 959, 228
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+Eyewhite_R
+  rotate: false
+  xy: 946, 169
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+Flag_Argentina
+  rotate: false
+  xy: 618, 115
+  size: 78, 100
+  orig: 78, 100
+  offset: 0, 0
+  index: -1
+Flag_Brazil
+  rotate: true
+  xy: 698, 131
+  size: 78, 100
+  orig: 78, 100
+  offset: 0, 0
+  index: -1
+Flag_France
+  rotate: true
+  xy: 800, 131
+  size: 78, 100
+  orig: 78, 100
+  offset: 0, 0
+  index: -1
+Flag_Korea
+  rotate: false
+  xy: 729, 29
+  size: 78, 100
+  orig: 78, 100
+  offset: 0, 0
+  index: -1
+Flag_Portugal
+  rotate: false
+  xy: 809, 29
+  size: 78, 100
+  orig: 78, 100
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 784, 8
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+Hand_L_Nearwin
+  rotate: true
+  xy: 824, 6
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 942, 313
+  size: 32, 78
+  orig: 32, 78
+  offset: 0, 0
+  index: -1
+Hand_R_Nearwin
+  rotate: false
+  xy: 415, 86
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 257
+  size: 448, 134
+  orig: 448, 134
+  offset: 0, 0
+  index: -1
+Laeeb_Spin
+  rotate: false
+  xy: 298, 3
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+Light_add_Rotate
+  rotate: true
+  xy: 902, 183
+  size: 67, 55
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+Light_add_Win
+  rotate: true
+  xy: 715, 211
+  size: 180, 181
+  orig: 180, 181
+  offset: 0, 0
+  index: -1
+Saber
+  rotate: false
+  xy: 452, 217
+  size: 261, 174
+  orig: 261, 174
+  offset: 0, 0
+  index: -1
+String1
+  rotate: true
+  xy: 898, 252
+  size: 139, 42
+  orig: 139, 42
+  offset: 0, 0
+  index: -1
+Throat
+  rotate: false
+  xy: 871, 18
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 698, 115
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Tooth_Bot
+  rotate: true
+  xy: 415, 61
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Tooth_Top
+  rotate: true
+  xy: 860, 2
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+Wheel
+  rotate: true
+  xy: 435, 35
+  size: 180, 181
+  orig: 180, 181
+  offset: 0, 0
+  index: -1
+
+UI_Mascot2.png
+size: 882,882
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_00
+  rotate: false
+  xy: 2, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_02
+  rotate: false
+  xy: 2, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_04
+  rotate: false
+  xy: 178, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_05
+  rotate: false
+  xy: 2, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_07
+  rotate: false
+  xy: 178, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_08
+  rotate: false
+  xy: 354, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_10
+  rotate: false
+  xy: 2, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_11
+  rotate: false
+  xy: 178, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_12
+  rotate: false
+  xy: 354, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_14
+  rotate: false
+  xy: 530, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_15
+  rotate: false
+  xy: 2, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_16
+  rotate: false
+  xy: 178, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_18
+  rotate: false
+  xy: 354, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_19
+  rotate: false
+  xy: 530, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_20
+  rotate: false
+  xy: 706, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_21
+  rotate: false
+  xy: 178, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_22
+  rotate: false
+  xy: 354, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_23
+  rotate: false
+  xy: 530, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_24
+  rotate: false
+  xy: 706, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_25
+  rotate: false
+  xy: 354, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_26
+  rotate: false
+  xy: 530, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Argentina/Smoke_Flag_Argentina_27
+  rotate: false
+  xy: 706, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+
+UI_Mascot3.png
+size: 882,882
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_00
+  rotate: false
+  xy: 2, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_02
+  rotate: false
+  xy: 2, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_04
+  rotate: false
+  xy: 178, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_05
+  rotate: false
+  xy: 2, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_07
+  rotate: false
+  xy: 178, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_08
+  rotate: false
+  xy: 354, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_10
+  rotate: false
+  xy: 2, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_11
+  rotate: false
+  xy: 178, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_12
+  rotate: false
+  xy: 354, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_14
+  rotate: false
+  xy: 530, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_15
+  rotate: false
+  xy: 2, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_16
+  rotate: false
+  xy: 178, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_18
+  rotate: false
+  xy: 354, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_19
+  rotate: false
+  xy: 530, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_20
+  rotate: false
+  xy: 706, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_21
+  rotate: false
+  xy: 178, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_22
+  rotate: false
+  xy: 354, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_23
+  rotate: false
+  xy: 530, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_24
+  rotate: false
+  xy: 706, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_25
+  rotate: false
+  xy: 354, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_26
+  rotate: false
+  xy: 530, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Brazil/Smoke_Flag_Brazil_27
+  rotate: false
+  xy: 706, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+
+UI_Mascot4.png
+size: 882,882
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_Flag_France/Smoke_Flag_France_00
+  rotate: false
+  xy: 2, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_02
+  rotate: false
+  xy: 2, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_04
+  rotate: false
+  xy: 178, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_05
+  rotate: false
+  xy: 2, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_07
+  rotate: false
+  xy: 178, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_08
+  rotate: false
+  xy: 354, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_10
+  rotate: false
+  xy: 2, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_11
+  rotate: false
+  xy: 178, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_12
+  rotate: false
+  xy: 354, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_14
+  rotate: false
+  xy: 530, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_15
+  rotate: false
+  xy: 2, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_16
+  rotate: false
+  xy: 178, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_18
+  rotate: false
+  xy: 354, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_19
+  rotate: false
+  xy: 530, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_20
+  rotate: false
+  xy: 706, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_21
+  rotate: false
+  xy: 178, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_22
+  rotate: false
+  xy: 354, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_23
+  rotate: false
+  xy: 530, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_24
+  rotate: false
+  xy: 706, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_25
+  rotate: false
+  xy: 354, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_26
+  rotate: false
+  xy: 530, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_France/Smoke_Flag_France_27
+  rotate: false
+  xy: 706, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+
+UI_Mascot5.png
+size: 882,882
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_Flag_Korea/Smoke_Flag_Korea_00
+  rotate: false
+  xy: 2, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_02
+  rotate: false
+  xy: 2, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_04
+  rotate: false
+  xy: 178, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_05
+  rotate: false
+  xy: 2, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_07
+  rotate: false
+  xy: 178, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_08
+  rotate: false
+  xy: 354, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_10
+  rotate: false
+  xy: 2, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_11
+  rotate: false
+  xy: 178, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_12
+  rotate: false
+  xy: 354, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_14
+  rotate: false
+  xy: 530, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_15
+  rotate: false
+  xy: 2, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_16
+  rotate: false
+  xy: 178, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_18
+  rotate: false
+  xy: 354, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_19
+  rotate: false
+  xy: 530, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_20
+  rotate: false
+  xy: 706, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_21
+  rotate: false
+  xy: 178, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_22
+  rotate: false
+  xy: 354, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_23
+  rotate: false
+  xy: 530, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_24
+  rotate: false
+  xy: 706, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_25
+  rotate: false
+  xy: 354, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_26
+  rotate: false
+  xy: 530, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Korea/Smoke_Flag_Korea_27
+  rotate: false
+  xy: 706, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+
+UI_Mascot6.png
+size: 882,882
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_00
+  rotate: false
+  xy: 2, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_02
+  rotate: false
+  xy: 2, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_04
+  rotate: false
+  xy: 178, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_05
+  rotate: false
+  xy: 2, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_07
+  rotate: false
+  xy: 178, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_08
+  rotate: false
+  xy: 354, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_10
+  rotate: false
+  xy: 2, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_11
+  rotate: false
+  xy: 178, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_12
+  rotate: false
+  xy: 354, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_14
+  rotate: false
+  xy: 530, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_15
+  rotate: false
+  xy: 2, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_16
+  rotate: false
+  xy: 178, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_18
+  rotate: false
+  xy: 354, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_19
+  rotate: false
+  xy: 530, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_20
+  rotate: false
+  xy: 706, 706
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_21
+  rotate: false
+  xy: 178, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_22
+  rotate: false
+  xy: 354, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_23
+  rotate: false
+  xy: 530, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_24
+  rotate: false
+  xy: 706, 530
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_25
+  rotate: false
+  xy: 354, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_26
+  rotate: false
+  xy: 530, 178
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+Smoke_Flag_Portugal/Smoke_Flag_Portugal_27
+  rotate: false
+  xy: 706, 354
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+
+UI_Mascot7.png
+size: 992,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smoke_Normal/Smoke_00
+  rotate: false
+  xy: 2, 92
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_02
+  rotate: false
+  xy: 2, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_04
+  rotate: false
+  xy: 92, 92
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_05
+  rotate: false
+  xy: 92, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_07
+  rotate: false
+  xy: 182, 92
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_08
+  rotate: false
+  xy: 182, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_10
+  rotate: false
+  xy: 272, 92
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_11
+  rotate: false
+  xy: 272, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_12
+  rotate: false
+  xy: 362, 92
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_14
+  rotate: false
+  xy: 362, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_15
+  rotate: false
+  xy: 452, 92
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_16
+  rotate: false
+  xy: 452, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_18
+  rotate: false
+  xy: 542, 92
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_19
+  rotate: false
+  xy: 542, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_20
+  rotate: false
+  xy: 632, 92
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_21
+  rotate: false
+  xy: 632, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_22
+  rotate: false
+  xy: 722, 92
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_23
+  rotate: false
+  xy: 722, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_24
+  rotate: false
+  xy: 812, 92
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_25
+  rotate: false
+  xy: 812, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_26
+  rotate: false
+  xy: 902, 92
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+Smoke_Normal/Smoke_27
+  rotate: false
+  xy: 902, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1

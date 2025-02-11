@@ -1,0 +1,34 @@
+
+9848_Apricot_Blossom.png
+size: 558,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Apricot_Blossom_1
+  rotate: false
+  xy: 2, 281
+  size: 493, 275
+  orig: 493, 275
+  offset: 0, 0
+  index: -1
+Apricot_Blossom_2
+  rotate: false
+  xy: 2, 2
+  size: 153, 277
+  orig: 154, 277
+  offset: 0, 0
+  index: -1
+Leaf1
+  rotate: false
+  xy: 157, 149
+  size: 176, 130
+  orig: 177, 130
+  offset: 0, 0
+  index: -1
+Leaf2
+  rotate: false
+  xy: 157, 82
+  size: 84, 65
+  orig: 84, 65
+  offset: 0, 0
+  index: -1

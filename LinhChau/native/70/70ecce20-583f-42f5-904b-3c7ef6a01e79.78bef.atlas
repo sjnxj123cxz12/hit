@@ -1,0 +1,111 @@
+
+9848_UI_Multiply_Pearl_2.png
+size: 338,338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Notiny/Lv2_00
+  rotate: false
+  xy: 2, 254
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Notiny/Lv2_01
+  rotate: false
+  xy: 2, 170
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Notiny/Lv2_02
+  rotate: false
+  xy: 86, 254
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Notiny/Lv2_03
+  rotate: false
+  xy: 2, 86
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Notiny/Lv2_04
+  rotate: false
+  xy: 86, 170
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Notiny/Lv2_05
+  rotate: false
+  xy: 170, 254
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Notiny/Lv2_06
+  rotate: false
+  xy: 2, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Notiny/Lv2_07
+  rotate: false
+  xy: 86, 86
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Notiny/Lv2_08
+  rotate: false
+  xy: 170, 170
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Notiny/Lv2_09
+  rotate: false
+  xy: 254, 254
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Notiny/Lv2_10
+  rotate: false
+  xy: 86, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Notiny/Lv2_11
+  rotate: false
+  xy: 170, 86
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Notiny/Lv2_12
+  rotate: false
+  xy: 254, 170
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Notiny/Lv2_13
+  rotate: false
+  xy: 170, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+Notiny/Lv2_14
+  rotate: false
+  xy: 254, 86
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1

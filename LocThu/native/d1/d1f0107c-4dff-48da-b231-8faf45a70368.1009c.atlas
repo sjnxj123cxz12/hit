@@ -1,0 +1,69 @@
+
+ngua.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 155, 99
+  size: 149, 143
+  orig: 149, 143
+  offset: 0, 0
+  index: -1
+VONG
+  rotate: false
+  xy: 306, 111
+  size: 140, 131
+  orig: 140, 131
+  offset: 0, 0
+  index: -1
+an
+  rotate: true
+  xy: 155, 2
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 99, 14
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 85
+  size: 151, 157
+  orig: 151, 157
+  offset: 0, 0
+  index: -1
+ngua
+  rotate: false
+  xy: 2, 20
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+toc 1
+  rotate: false
+  xy: 448, 181
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+toc 2
+  rotate: false
+  xy: 448, 115
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+toc3
+  rotate: false
+  xy: 268, 32
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1

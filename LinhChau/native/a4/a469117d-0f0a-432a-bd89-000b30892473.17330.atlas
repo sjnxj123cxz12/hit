@@ -1,0 +1,180 @@
+
+UI_BigWin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Board
+  rotate: false
+  xy: 2, 38
+  size: 490, 146
+  orig: 490, 146
+  offset: 0, 0
+  index: -1
+Coin_String
+  rotate: true
+  xy: 494, 63
+  size: 38, 170
+  orig: 38, 170
+  offset: 0, 0
+  index: -1
+Fabric
+  rotate: true
+  xy: 537, 590
+  size: 279, 88
+  orig: 279, 88
+  offset: 0, 0
+  index: -1
+Flower
+  rotate: false
+  xy: 679, 80
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+Flower_B
+  rotate: false
+  xy: 899, 217
+  size: 118, 58
+  orig: 118, 58
+  offset: 0, 0
+  index: -1
+Flower_C
+  rotate: true
+  xy: 652, 814
+  size: 208, 240
+  orig: 208, 240
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: true
+  xy: 848, 324
+  size: 488, 41
+  orig: 488, 41
+  offset: 0, 0
+  index: -1
+Jewel
+  rotate: false
+  xy: 899, 158
+  size: 109, 57
+  orig: 109, 57
+  offset: 0, 0
+  index: -1
+Leaf_B
+  rotate: false
+  xy: 899, 277
+  size: 123, 118
+  orig: 123, 118
+  offset: 0, 0
+  index: -1
+Leaf_C
+  rotate: false
+  xy: 494, 103
+  size: 183, 50
+  orig: 183, 50
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+Lotus
+  rotate: false
+  xy: 515, 374
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+Lotus_B
+  rotate: false
+  xy: 515, 430
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+Lotus_C
+  rotate: false
+  xy: 515, 514
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+Sakura
+  rotate: false
+  xy: 899, 88
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+Sakura_B
+  rotate: false
+  xy: 719, 146
+  size: 178, 176
+  orig: 178, 176
+  offset: 0, 0
+  index: -1
+Sakura_C
+  rotate: true
+  xy: 514, 155
+  size: 167, 203
+  orig: 167, 203
+  offset: 0, 0
+  index: -1
+Thang_Cuc_Lon
+  rotate: false
+  xy: 2, 388
+  size: 511, 249
+  orig: 511, 249
+  offset: 0, 0
+  index: -1
+Thang_Cuc_Lon_Add
+  rotate: true
+  xy: 627, 324
+  size: 488, 219
+  orig: 488, 219
+  offset: 0, 0
+  index: -1
+Thang_Lon
+  rotate: false
+  xy: 2, 871
+  size: 648, 151
+  orig: 648, 151
+  offset: 0, 0
+  index: -1
+Thang_Lon_Add
+  rotate: true
+  xy: 894, 397
+  size: 625, 119
+  orig: 625, 119
+  offset: 0, 0
+  index: -1
+Thang_Sieu_Lon
+  rotate: false
+  xy: 2, 639
+  size: 533, 230
+  orig: 533, 230
+  offset: 0, 0
+  index: -1
+Thang_Siu_Lon_Add
+  rotate: false
+  xy: 2, 186
+  size: 510, 200
+  orig: 510, 200
+  offset: 0, 0
+  index: -1
+
+UI_BigWin2.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light/Light_BG
+  rotate: false
+  xy: 2, 2
+  size: 284, 284
+  orig: 284, 284
+  offset: 0, 0
+  index: -1

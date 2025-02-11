@@ -1,0 +1,139 @@
+
+TienCa-BackGroud-Character.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-1
+  rotate: false
+  xy: 2, 258
+  size: 183, 230
+  orig: 183, 230
+  offset: 0, 0
+  index: -1
+4-10
+  rotate: true
+  xy: 375, 152
+  size: 143, 101
+  orig: 143, 101
+  offset: 0, 0
+  index: -1
+4-11
+  rotate: false
+  xy: 270, 131
+  size: 103, 153
+  orig: 103, 153
+  offset: 0, 0
+  index: -1
+4-12
+  rotate: true
+  xy: 270, 55
+  size: 74, 110
+  orig: 74, 110
+  offset: 0, 0
+  index: -1
+4-13
+  rotate: false
+  xy: 2, 2
+  size: 139, 61
+  orig: 139, 61
+  offset: 0, 0
+  index: -1
+4-14
+  rotate: false
+  xy: 667, 269
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+4-2
+  rotate: false
+  xy: 2, 65
+  size: 143, 191
+  orig: 143, 191
+  offset: 0, 0
+  index: -1
+4-3
+  rotate: false
+  xy: 478, 196
+  size: 50, 99
+  orig: 50, 99
+  offset: 0, 0
+  index: -1
+4-4
+  rotate: false
+  xy: 588, 251
+  size: 77, 60
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+4-5
+  rotate: false
+  xy: 530, 224
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+4-6
+  rotate: false
+  xy: 187, 286
+  size: 185, 202
+  orig: 185, 202
+  offset: 0, 0
+  index: -1
+4-7
+  rotate: false
+  xy: 382, 80
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+4-8
+  rotate: true
+  xy: 737, 274
+  size: 37, 70
+  orig: 37, 70
+  offset: 0, 0
+  index: -1
+4-9
+  rotate: false
+  xy: 374, 297
+  size: 123, 191
+  orig: 123, 191
+  offset: 0, 0
+  index: -1
+Fx/image 174
+  rotate: false
+  xy: 499, 313
+  size: 121, 175
+  orig: 121, 175
+  offset: 0, 0
+  index: -1
+Fx/image 176
+  rotate: false
+  xy: 622, 313
+  size: 121, 175
+  orig: 121, 175
+  offset: 0, 0
+  index: -1
+Fx/image 178
+  rotate: false
+  xy: 745, 313
+  size: 121, 175
+  orig: 121, 175
+  offset: 0, 0
+  index: -1
+Fx/image 180
+  rotate: false
+  xy: 868, 313
+  size: 121, 175
+  orig: 121, 175
+  offset: 0, 0
+  index: -1
+Fx/image 182
+  rotate: false
+  xy: 147, 81
+  size: 121, 175
+  orig: 121, 175
+  offset: 0, 0
+  index: -1

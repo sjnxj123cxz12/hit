@@ -1,0 +1,27 @@
+
+LongVuong-ThangLon.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect/light
+  rotate: false
+  xy: 2, 2
+  size: 354, 230
+  orig: 358, 358
+  offset: 0, 71
+  index: -1
+rs_render_Thanglon/TL59
+  rotate: false
+  xy: 483, 310
+  size: 354, 127
+  orig: 1280, 720
+  offset: 284, 296
+  index: -1
+rs_render_Thanglon/TL60
+  rotate: false
+  xy: 2, 234
+  size: 479, 203
+  orig: 1280, 720
+  offset: 233, 256
+  index: -1

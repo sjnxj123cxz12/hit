@@ -1,0 +1,20 @@
+
+9848_VFX_PayLine.png
+size: 804,47
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FBF/Core_10
+  rotate: false
+  xy: 2, 21
+  size: 800, 24
+  orig: 800, 24
+  offset: 0, 0
+  index: -1
+PayLine_Static
+  rotate: false
+  xy: 2, 2
+  size: 442, 17
+  orig: 442, 17
+  offset: 0, 0
+  index: -1

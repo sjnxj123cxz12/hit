@@ -1,0 +1,125 @@
+
+TNK-Ingame-Character.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7.TNK-2/Spine/Lobby/P10000/images/1
+  rotate: false
+  xy: 2, 50
+  size: 160, 201
+  orig: 160, 201
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/10
+  rotate: false
+  xy: 824, 923
+  size: 164, 98
+  orig: 164, 98
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/11
+  rotate: false
+  xy: 332, 189
+  size: 184, 62
+  orig: 184, 62
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/12
+  rotate: false
+  xy: 164, 98
+  size: 166, 153
+  orig: 166, 153
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/13
+  rotate: false
+  xy: 824, 817
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/14
+  rotate: true
+  xy: 713, 668
+  size: 164, 74
+  orig: 164, 74
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/15
+  rotate: true
+  xy: 650, 613
+  size: 219, 61
+  orig: 219, 61
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/16
+  rotate: false
+  xy: 650, 396
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/17
+  rotate: false
+  xy: 650, 311
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/2-2
+  rotate: false
+  xy: 597, 226
+  size: 51, 795
+  orig: 51, 795
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/3
+  rotate: false
+  xy: 650, 834
+  size: 172, 187
+  orig: 172, 187
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/4
+  rotate: false
+  xy: 2, 253
+  size: 593, 768
+  orig: 593, 768
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/5
+  rotate: false
+  xy: 990, 1007
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/6
+  rotate: true
+  xy: 332, 89
+  size: 98, 136
+  orig: 98, 136
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/7
+  rotate: false
+  xy: 789, 714
+  size: 113, 101
+  orig: 113, 101
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/8
+  rotate: false
+  xy: 2, 2
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+7.TNK-2/Spine/Lobby/P10000/images/9
+  rotate: true
+  xy: 650, 498
+  size: 113, 73
+  orig: 113, 73
+  offset: 0, 0
+  index: -1

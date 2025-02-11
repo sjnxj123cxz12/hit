@@ -1,0 +1,34 @@
+
+9848_VFX_Impact_Multiply.png
+size: 376,376
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG2
+  rotate: false
+  xy: 2, 2
+  size: 189, 183
+  orig: 189, 183
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 195, 293
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+LightFlash_000
+  rotate: false
+  xy: 2, 187
+  size: 191, 187
+  orig: 191, 187
+  offset: 0, 0
+  index: -1
+Par_Y
+  rotate: false
+  xy: 195, 262
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

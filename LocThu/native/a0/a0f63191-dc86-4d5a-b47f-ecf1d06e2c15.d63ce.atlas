@@ -1,0 +1,62 @@
+
+ho.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 155, 111
+  size: 149, 143
+  orig: 149, 143
+  offset: 0, 0
+  index: -1
+VONG
+  rotate: false
+  xy: 306, 123
+  size: 140, 131
+  orig: 140, 131
+  offset: 0, 0
+  index: -1
+an
+  rotate: false
+  xy: 306, 2
+  size: 98, 119
+  orig: 98, 119
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 97
+  size: 151, 157
+  orig: 151, 157
+  offset: 0, 0
+  index: -1
+ho
+  rotate: true
+  xy: 2, 3
+  size: 92, 113
+  orig: 92, 113
+  offset: 0, 0
+  index: -1
+matnham
+  rotate: false
+  xy: 448, 218
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+tai 1
+  rotate: false
+  xy: 117, 72
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+tai 2
+  rotate: false
+  xy: 406, 87
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
