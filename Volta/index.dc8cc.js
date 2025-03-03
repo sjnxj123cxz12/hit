@@ -12,12 +12,12 @@ throw new Error("Cannot find module '" + r + "'");
 }
 r = s;
 }
-var p = o[r] = {
+var h = o[r] = {
 exports: {}
 };
-e[r][0].call(p.exports, function(t) {
+e[r][0].call(h.exports, function(t) {
 return i(e[r][1][t] || t);
-}, p, p.exports, t, e, o, n);
+}, h, h.exports, t, e, o, n);
 }
 return o[r].exports;
 }
@@ -49,22 +49,24 @@ return a > 3 && r && Object.defineProperty(e, o, r), r;
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var r = cc._decorator, c = r.ccclass, s = r.property, l = function(t) {
+var r = cc._decorator, c = r.ccclass, s = r.property, l = t("./Volta.Const"), h = function(t) {
 i(e, t);
 function e() {
 var e = null !== t && t.apply(this, arguments) || this;
 e.webview = null;
 return e;
 }
-e.prototype.onLoad = function() {
-this.webview.url = "https://iuvtr.sb21.net/?link=https://dnlip1cre71kt.cloudfront.net/1-1739185609680/Default/HLS/1-1739185609680.m3u8";
+e.prototype.onEnable = function() {
+this.webview.url = l.VoltaConst.urlVideo;
 };
 a([ s(cc.WebView) ], e.prototype, "webview", void 0);
 return a([ c ], e);
 }(cc.Component);
-o.default = l;
+o.default = h;
 cc._RF.pop();
-}, {} ],
+}, {
+"./Volta.Const": "Volta.Const"
+} ],
 LoadingVolta: [ function(t, e, o) {
 "use strict";
 cc._RF.push(e, "84ca49SIm1BhpGuSKhqXZp1", "LoadingVolta");
@@ -90,7 +92,7 @@ return a > 3 && r && Object.defineProperty(e, o, r), r;
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var r = t("./Volta.Const"), c = cc._decorator, s = c.ccclass, l = c.property, p = function(t) {
+var r = t("./Volta.Const"), c = cc._decorator, s = c.ccclass, l = c.property, h = function(t) {
 i(e, t);
 function e() {
 var e = null !== t && t.apply(this, arguments) || this;
@@ -133,7 +135,7 @@ a([ l(cc.ProgressBar) ], e.prototype, "progress", void 0);
 a([ l(cc.Label) ], e.prototype, "progresslabel", void 0);
 return a([ s ], e);
 }(cc.Component);
-o.default = p;
+o.default = h;
 cc._RF.pop();
 }, {
 "./Volta.Const": "Volta.Const"
@@ -297,7 +299,7 @@ return a > 3 && r && Object.defineProperty(e, o, r), r;
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var r = t("../Volta.Chat"), c = t("../Volta.Const"), s = cc._decorator, l = s.ccclass, p = (s.property, 
+var r = t("../Volta.Chat"), c = t("../Volta.Const"), s = cc._decorator, l = s.ccclass, h = (s.property, 
 function(t) {
 i(e, t);
 function e() {
@@ -370,7 +372,7 @@ r.default.instance.listLastMessages(i);
 }
 };
 e.prototype.registerChat = function() {
-this.sendSignalR("RegisterChat", [ "taixiu" ]);
+this.sendSignalR("RegisterChat", [ "voltalive" ]);
 };
 e.prototype.pingPong = function() {
 this.sendSignalR("PingPong", []);
@@ -394,7 +396,7 @@ var o;
 e._instance = null;
 return o = a([ l ], e);
 }(cc.Component));
-o.default = p;
+o.default = h;
 cc._RF.pop();
 }, {
 "../Volta.Chat": "Volta.Chat",
@@ -425,7 +427,7 @@ return a > 3 && r && Object.defineProperty(e, o, r), r;
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var r = t("./network/Volta.Chat.NetworkClient"), c = cc._decorator, s = c.ccclass, l = c.property, p = function(t) {
+var r = t("./network/Volta.Chat.NetworkClient"), c = cc._decorator, s = c.ccclass, l = c.property, h = function(t) {
 i(e, t);
 function e() {
 var e = null !== t && t.apply(this, arguments) || this;
@@ -438,7 +440,7 @@ return e;
 }
 o = e;
 e.prototype.onLoad = function() {
-this.chatChanel = "taixiu";
+this.chatChanel = "voltalive";
 };
 e.prototype.touchSendChat = function() {
 if (this.txtInputChat.string.length) {
@@ -535,7 +537,7 @@ a([ l(cc.ScrollView) ], e.prototype, "scrollListChat", void 0);
 a([ l(cc.EditBox) ], e.prototype, "txtInputChat", void 0);
 return o = a([ s ], e);
 }(cc.Component);
-o.default = p;
+o.default = h;
 cc._RF.pop();
 }, {
 "./network/Volta.Chat.NetworkClient": "Volta.Chat.NetworkClient"
@@ -606,7 +608,7 @@ e = (t = Math.abs(t)) >= 1e3 ? (t / 1e3).toFixed().toString().replace(/(\d)(?=(\
 return e;
 };
 t.cutStringWithEllipsis = function(t, e) {
-return t.length > e ? t.substring(0, e) + "..." : t;
+return null == t ? "" : t.length > e ? t.substring(0, e) + "..." : t;
 };
 t.getUrl = function(t, e) {
 var o = t, n = cc.loader.getXMLHttpRequest();
@@ -662,7 +664,6 @@ n.send();
 });
 };
 t.setSpriteFromBase64 = function(t, e) {
-console.log("Load được rồi đại ca ơi");
 var o = new Image();
 o.src = t;
 o.onload = function() {
@@ -682,6 +683,7 @@ t.diceNode = {
 GameSessionID: 0
 };
 t.isLoading = !0;
+t.urlVideo = "";
 t.ON_VOLTA_SOCKET = "OnVoltaWebSocKet";
 t.CHAT_VOLTA_SOCKET_EVENT = "OnChatVoltaWebSocKet";
 t.GameStatus = {
@@ -730,7 +732,7 @@ return a > 3 && r && Object.defineProperty(e, o, r), r;
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var r = cc._decorator, c = r.ccclass, s = r.property, l = t("../Volta.MainGame"), p = function(t) {
+var r = cc._decorator, c = r.ccclass, s = r.property, l = t("../Volta.MainGame"), h = function(t) {
 i(e, t);
 function e() {
 var e = null !== t && t.apply(this, arguments) || this;
@@ -770,7 +772,7 @@ a([ s(cc.SpriteFrame) ], e.prototype, "listguide", void 0);
 a([ s(cc.Sprite) ], e.prototype, "guide", void 0);
 return a([ c ], e);
 }(cc.Component);
-o.default = p;
+o.default = h;
 cc._RF.pop();
 }, {
 "../Volta.MainGame": "Volta.MainGame"
@@ -800,7 +802,7 @@ return a > 3 && r && Object.defineProperty(e, o, r), r;
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var r = t("./network/Volta.NetworkClient"), c = t("./Volta.Const"), s = cc._decorator, l = s.ccclass, p = s.property, h = function(t) {
+var r = t("./network/Volta.NetworkClient"), c = t("./Volta.Const"), s = cc._decorator, l = s.ccclass, h = s.property, p = function(t) {
 i(e, t);
 function e() {
 var e = null !== t && t.apply(this, arguments) || this;
@@ -915,24 +917,24 @@ n.getChildByName("line").getComponent(cc.Sprite).spriteFrame = null;
 };
 var o;
 e._instance = null;
-a([ p(cc.Button) ], e.prototype, "btnR", void 0);
-a([ p(cc.Button) ], e.prototype, "btnL", void 0);
-a([ p(cc.Label) ], e.prototype, "lbTotalBetTai", void 0);
-a([ p(cc.Label) ], e.prototype, "lbTotalBetXiu", void 0);
-a([ p(cc.Label) ], e.prototype, "lbTotalRefundTai", void 0);
-a([ p(cc.Label) ], e.prototype, "lbTotalRefundXiu", void 0);
-a([ p(cc.Label) ], e.prototype, "txtSessionInfo", void 0);
-a([ p(cc.Label) ], e.prototype, "txtTotalDice", void 0);
-a([ p([ cc.Sprite ]) ], e.prototype, "XucXac", void 0);
-a([ p(cc.Sprite) ], e.prototype, "imgEffectTai", void 0);
-a([ p(cc.Sprite) ], e.prototype, "imgEffectXiu", void 0);
-a([ p([ cc.SpriteFrame ]) ], e.prototype, "imgDices", void 0);
-a([ p(cc.Node) ], e.prototype, "lvTaiContent", void 0);
-a([ p(cc.Node) ], e.prototype, "lvXiuContent", void 0);
-a([ p(cc.Node) ], e.prototype, "template", void 0);
+a([ h(cc.Button) ], e.prototype, "btnR", void 0);
+a([ h(cc.Button) ], e.prototype, "btnL", void 0);
+a([ h(cc.Label) ], e.prototype, "lbTotalBetTai", void 0);
+a([ h(cc.Label) ], e.prototype, "lbTotalBetXiu", void 0);
+a([ h(cc.Label) ], e.prototype, "lbTotalRefundTai", void 0);
+a([ h(cc.Label) ], e.prototype, "lbTotalRefundXiu", void 0);
+a([ h(cc.Label) ], e.prototype, "txtSessionInfo", void 0);
+a([ h(cc.Label) ], e.prototype, "txtTotalDice", void 0);
+a([ h([ cc.Sprite ]) ], e.prototype, "XucXac", void 0);
+a([ h(cc.Sprite) ], e.prototype, "imgEffectTai", void 0);
+a([ h(cc.Sprite) ], e.prototype, "imgEffectXiu", void 0);
+a([ h([ cc.SpriteFrame ]) ], e.prototype, "imgDices", void 0);
+a([ h(cc.Node) ], e.prototype, "lvTaiContent", void 0);
+a([ h(cc.Node) ], e.prototype, "lvXiuContent", void 0);
+a([ h(cc.Node) ], e.prototype, "template", void 0);
 return o = a([ l ], e);
 }(fzgui.UIPopup);
-o.default = h;
+o.default = p;
 cc._RF.pop();
 }, {
 "./Volta.Const": "Volta.Const",
@@ -963,7 +965,7 @@ return a > 3 && r && Object.defineProperty(e, o, r), r;
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var r = t("../Volta.Const"), c = t("../Volta.MainGame"), s = cc._decorator, l = s.ccclass, p = s.property, h = function(t) {
+var r = t("../Volta.Const"), c = t("../Volta.MainGame"), s = cc._decorator, l = s.ccclass, h = s.property, p = function(t) {
 i(e, t);
 function e() {
 var e = null !== t && t.apply(this, arguments) || this;
@@ -1002,7 +1004,7 @@ e.prototype.showAccountHistoryTaiXiu = function(t) {
 if (t) for (var e = 0; e < t.length; e++) {
 var o = t[e], n = o.CreateTime, i = o.BetSide, a = o.Result;
 i = 1 == o.BetSide ? "Xỉu" : "Tài";
-var c = o.SessionID, s = o.Bet, l = o.Refund, p = o.Award, h = p - s + l, u = cc.instantiate(this.template);
+var c = o.SessionID, s = o.Bet, l = o.Refund, h = o.Award, p = h - s + l, u = cc.instantiate(this.template);
 u.position = new cc.Vec3(0, 0, 0);
 u.getChildByName("txtPhien").getComponent(cc.Label).string = "" + c;
 if (n.length > 0) {
@@ -1010,15 +1012,15 @@ var f = r.VoltaConst.formatDateTime2(n);
 u.getChildByName("txtThoiGian").getComponent(cc.Label).string = f;
 u.getChildByName("txtThoiGian").color = cc.Color.WHITE;
 }
-if (h > 0) {
-u.getChildByName("txtTienThang").getComponent(cc.Label).string = r.VoltaConst.formatNumber(p);
+if (p > 0) {
+u.getChildByName("txtTienThang").getComponent(cc.Label).string = r.VoltaConst.formatNumber(h);
 u.getChildByName("txtTienThang").color = cc.Color.GREEN;
-} else if (h < 0) {
-u.getChildByName("txtTienThang").getComponent(cc.Label).string = r.VoltaConst.formatNumber(p);
+} else if (p < 0) {
+u.getChildByName("txtTienThang").getComponent(cc.Label).string = r.VoltaConst.formatNumber(h);
 u.getChildByName("txtTienThang").color = cc.Color.RED;
 } else u.getChildByName("txtTienThang").getComponent(cc.Label).string = "Hòa";
 u.getChildByName("txtTongCuoc").getComponent(cc.Label).string = r.VoltaConst.formatNumber(s - l);
-u.getChildByName("txtChiTiet").getComponent(cc.Label).string = "Đặt " + i + ". Kết quả " + a + ", Tổng đặt \n" + r.VoltaConst.formatNumber(s) + " Hoàn trả " + r.VoltaConst.formatNumber(l) + " Nhận " + r.VoltaConst.formatNumber(p);
+u.getChildByName("txtChiTiet").getComponent(cc.Label).string = "Đặt " + i + ". Kết quả " + a + ", Tổng đặt \n" + r.VoltaConst.formatNumber(s) + " Hoàn trả " + r.VoltaConst.formatNumber(l) + " Nhận " + r.VoltaConst.formatNumber(h);
 u.getChildByName("line2").getComponent(cc.Sprite).spriteFrame = this.sprline[0];
 u.getChildByName("liner").active = !!(e % 2);
 this.content.addChild(u);
@@ -1029,12 +1031,12 @@ c.default.instance.OpacityView();
 };
 var o;
 e._instance = null;
-a([ p(cc.Node) ], e.prototype, "content", void 0);
-a([ p(cc.Node) ], e.prototype, "template", void 0);
-a([ p([ cc.SpriteFrame ]) ], e.prototype, "sprline", void 0);
+a([ h(cc.Node) ], e.prototype, "content", void 0);
+a([ h(cc.Node) ], e.prototype, "template", void 0);
+a([ h([ cc.SpriteFrame ]) ], e.prototype, "sprline", void 0);
 return o = a([ l ], e);
 }(cc.Component);
-o.default = h;
+o.default = p;
 cc._RF.pop();
 }, {
 "../Volta.Const": "Volta.Const",
@@ -1065,7 +1067,7 @@ return a > 3 && r && Object.defineProperty(e, o, r), r;
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var r = t("../Volta.Const"), c = cc._decorator, s = c.ccclass, l = c.property, p = function(t) {
+var r = t("../Volta.Const"), c = cc._decorator, s = c.ccclass, l = c.property, h = function(t) {
 i(e, t);
 function e() {
 var e = null !== t && t.apply(this, arguments) || this;
@@ -1094,7 +1096,7 @@ e.prototype.setDelegate = function(t) {
 this._delegate = t;
 };
 e.prototype.setData = function(t, e) {
-var o = t, n = o.SessionTime, i = o.LocationName, a = (o.Result, o.Data[0].Username), c = o.Data[1].Username, s = o.Data[2].Username, l = o.Data[0].JackpotValue, p = o.Data[1].JackpotValue, h = o.Data[2].JackpotValue;
+var o = t, n = o.SessionTime, i = o.LocationName, a = (o.Result, o.Data[0].Username), c = o.Data[1].Username, s = o.Data[2].Username, l = o.Data[0].JackpotValue, h = o.Data[1].JackpotValue, p = o.Data[2].JackpotValue;
 o.LocationIDWin;
 var u = o.GameSessionID, f = o.TotalJackpot;
 this.txtPhien.string = "" + u;
@@ -1120,9 +1122,9 @@ this.txtVinhDanh2.string = r.VoltaConst.formatUserName(c);
 this.txtVinhDanh3.string = r.VoltaConst.formatUserName(s);
 this.txtTienTrung1.string = r.VoltaConst.formatNumberMin(l);
 this.txtTienTrung1.horizontalAlign = 2;
-this.txtTienTrung2.string = r.VoltaConst.formatNumberMin(p);
+this.txtTienTrung2.string = r.VoltaConst.formatNumberMin(h);
 this.txtTienTrung2.horizontalAlign = 2;
-this.txtTienTrung3.string = r.VoltaConst.formatNumberMin(h);
+this.txtTienTrung3.string = r.VoltaConst.formatNumberMin(p);
 this.txtTienTrung3.horizontalAlign = 2;
 this.node.color = e % 2 == 0 ? cc.color(38, 4, 0) : cc.color(255, 255, 255);
 };
@@ -1147,7 +1149,7 @@ a([ l(cc.Label) ], e.prototype, "txtTienTrung3", void 0);
 a([ l(cc.SpriteFrame) ], e.prototype, "SprDice", void 0);
 return a([ s ], e);
 }(cc.Component);
-o.default = p;
+o.default = h;
 cc._RF.pop();
 }, {
 "../Volta.Const": "Volta.Const"
@@ -1177,7 +1179,7 @@ return a > 3 && r && Object.defineProperty(e, o, r), r;
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var r = t("../network/Volta.NetworkClient"), c = t("../Volta.Const"), s = cc._decorator, l = s.ccclass, p = s.property, h = function(t) {
+var r = t("../network/Volta.NetworkClient"), c = t("../Volta.Const"), s = cc._decorator, l = s.ccclass, h = s.property, p = function(t) {
 i(e, t);
 function e() {
 var e = null !== t && t.apply(this, arguments) || this;
@@ -1212,7 +1214,7 @@ if (t) {
 t && fzgui.UIWaitingLayout.hideWaiting();
 this._data = t;
 for (var e = 0; e < t.length; e++) {
-var o = t[e], n = o.SessionTime, i = o.LocationName, a = (o.Result, o.Data[0].Username), r = o.Data[1].Username, s = o.Data[2].Username, l = o.Data[0].JackpotValue, p = o.Data[1].JackpotValue, h = o.Data[2].JackpotValue;
+var o = t[e], n = o.SessionTime, i = o.LocationName, a = (o.Result, o.Data[0].Username), r = o.Data[1].Username, s = o.Data[2].Username, l = o.Data[0].JackpotValue, h = o.Data[1].JackpotValue, p = o.Data[2].JackpotValue;
 o.LocationIDWin;
 var u = o.GameSessionID, f = o.TotalJackpot, g = cc.instantiate(this.template);
 g.active = !0;
@@ -1241,9 +1243,9 @@ g.getChildByName("txtVinhDanh2").getComponent(cc.Label).string = c.VoltaConst.fo
 g.getChildByName("txtVinhDanh3").getComponent(cc.Label).string = c.VoltaConst.formatUserName(s);
 g.getChildByName("txtTienTrung1").getComponent(cc.Label).string = c.VoltaConst.formatNumberMin(l);
 g.getChildByName("txtTienTrung1").getComponent(cc.Label).horizontalAlign = 2;
-g.getChildByName("txtTienTrung2").getComponent(cc.Label).string = c.VoltaConst.formatNumberMin(p);
+g.getChildByName("txtTienTrung2").getComponent(cc.Label).string = c.VoltaConst.formatNumberMin(h);
 g.getChildByName("txtTienTrung2").getComponent(cc.Label).horizontalAlign = 2;
-g.getChildByName("txtTienTrung3").getComponent(cc.Label).string = c.VoltaConst.formatNumberMin(h);
+g.getChildByName("txtTienTrung3").getComponent(cc.Label).string = c.VoltaConst.formatNumberMin(p);
 g.getChildByName("txtTienTrung3").getComponent(cc.Label).horizontalAlign = 2;
 g.color = e % 2 == 0 ? cc.color(38, 4, 0) : cc.color(255, 255, 255);
 this.content.addChild(g);
@@ -1286,17 +1288,17 @@ this.contentVd.removeAllChildren();
 };
 var o;
 e._instance = null;
-a([ p(cc.Node) ], e.prototype, "content", void 0);
-a([ p(cc.Node) ], e.prototype, "template", void 0);
-a([ p(cc.SpriteFrame) ], e.prototype, "SprDice", void 0);
-a([ p(cc.Node) ], e.prototype, "bg", void 0);
-a([ p(cc.SpriteFrame) ], e.prototype, "bguser", void 0);
-a([ p(cc.Node) ], e.prototype, "NodeChiTiet", void 0);
-a([ p(cc.Node) ], e.prototype, "contentVd", void 0);
-a([ p(cc.Node) ], e.prototype, "templateVd", void 0);
+a([ h(cc.Node) ], e.prototype, "content", void 0);
+a([ h(cc.Node) ], e.prototype, "template", void 0);
+a([ h(cc.SpriteFrame) ], e.prototype, "SprDice", void 0);
+a([ h(cc.Node) ], e.prototype, "bg", void 0);
+a([ h(cc.SpriteFrame) ], e.prototype, "bguser", void 0);
+a([ h(cc.Node) ], e.prototype, "NodeChiTiet", void 0);
+a([ h(cc.Node) ], e.prototype, "contentVd", void 0);
+a([ h(cc.Node) ], e.prototype, "templateVd", void 0);
 return o = a([ l ], e);
 }(cc.Component);
-o.default = h;
+o.default = p;
 cc._RF.pop();
 }, {
 "../Volta.Const": "Volta.Const",
@@ -1327,7 +1329,7 @@ return a > 3 && r && Object.defineProperty(e, o, r), r;
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var r = t("./network/Volta.NetworkClient"), c = t("./Volta.Const"), s = t("./Volta.ThongKe"), l = cc._decorator, p = l.ccclass, h = l.property, u = function(t) {
+var r = t("./network/Volta.NetworkClient"), c = t("./Volta.Const"), s = t("./Volta.ThongKe"), l = cc._decorator, h = l.ccclass, p = l.property, u = function(t) {
 i(e, t);
 function e() {
 var e = null !== t && t.apply(this, arguments) || this;
@@ -1348,6 +1350,7 @@ e.nodeSelectChip = null;
 e.nodeHomeWin = null;
 e.nodeAwayWin = null;
 e.EffectBet = [];
+e.EffectWinMoney = [];
 e.m_txtNickName = null;
 e.m_txtMoney = null;
 e.m_lblTurnID = null;
@@ -1383,6 +1386,7 @@ this.ketQuaEnd = fzgui.UserManager.instance.mainUserInfo.Money;
 this.initVolta();
 };
 e.prototype.initVolta = function() {
+this.defaultPositionNodeWin = this.EffectWinMoney[1].getPosition();
 this.nodeLive.active = !1;
 this.m_llBetValue = 1e3;
 this.m_txtMoney.string = c.VoltaConst.formatNumber(fzgui.UserManager.instance.mainUserInfo.Money);
@@ -1409,23 +1413,23 @@ this.m_llBetValue = parseInt(e);
 e.prototype.resultOfAccount = function(t) {
 this.m_lblBetedValueKhach.string = "";
 this.m_lblBetedValueNha.string = "";
-var e = t.Balance;
+var e, o, n = t.Balance;
 this.ketQuaEnd = t.Balance;
-t.Award;
-t.Refund;
-this.setBalance(e);
+e = t.Award;
+o = t.Refund;
+this.setBalance(n);
+this.showPrizeValue(e, o);
 };
 e.prototype.showPrizeValue = function(t, e) {
 var o = t;
 if (t > 0) {
 var n = "+" + c.VoltaConst.formatNumber(parseInt(o));
-this.m_lblMoneyWin.node.color = cc.Color.YELLOW;
+this.EffectWinMoney[0].active = !0;
+this.EffectWinMoney[1].active = !0;
 this.m_lblMoneyWin.string = n;
 this.m_lblMoneyWin.node.active = !0;
-this.m_lblMoneyWin.node.runAction(cc.moveBy(3, cc.v2(0, 40)));
-this.node.runAction(cc.sequence(cc.delayTime(3), cc.callFunc(function() {
-this.m_lblMoneyWin.node.active = !1;
-}, this)));
+this.EffectWinMoney[1].setPosition(this.defaultPositionNodeWin);
+this.EffectWinMoney[1].runAction(cc.moveBy(3, cc.v2(0, 45)));
 } else if (e > 0) {
 n = "+" + c.VoltaConst.formatNumber(parseInt(e));
 this.m_lblMoneyWin.node.color = cc.Color.YELLOW;
@@ -1448,15 +1452,14 @@ this.m_lblMoneyWin.node.active = !1;
 }, this)));
 }
 };
-e.prototype.SetBet = function() {
-this.m_nGameStatus != c.VoltaConst.GameStatus.RESULT && this.m_nGameStatus != c.VoltaConst.GameStatus.PREPARE_NEW_SESSION && this.m_nGameStatus != c.VoltaConst.GameStatus.END_BETTING ? r.default.instance.sendSignalR("Bet", [ this.m_llBetValue, this.m_nBetGate, 1 ]) : this.showMessage("Đợi ván mới");
-};
 e.prototype.betOfAccount = function(t) {
 if (t.length) {
+fzgui.UITextManager.showCenterNotification("Đặt cược thành công");
 var e = t[0], o = t[1];
 o >= 0 && fzgui.EventDispatch.instance.emit(fzgui.EVENT_GAMECORE.UPDATE_TOTAL_GOLD, o);
 var n = e.BetSide, i = e.BetValue;
 this.setBettedVal(n, i);
+this.setBalance(t[1]);
 }
 };
 e.prototype.setBettedVal = function(t, e) {
@@ -1475,12 +1478,13 @@ e.prototype.GetCurrentRooms = function() {
 r.default.instance.sendSignalR("EnterLobby", [ this.m_nBetType ]);
 };
 e.prototype.sessionInfo = function(t) {
+var e = this;
 if (null != t) {
 c.VoltaConst.GameSessionID = t.RemoteSessionID;
 this.m_llGameSessionID = t.RemoteSessionID;
 this.m_nGameStatus = t.CurrentState;
 this.m_lblTurnID.string = "#" + this.m_llGameSessionID;
-this.Md5AndResultText = this.m_nGameStatus == c.VoltaConst.GameStatus.RESULT ? t.Md5String.substring(0, 18) + "..." : t.ResultString.substring(0, 18) + "...";
+this.Md5AndResultText = this.m_nGameStatus == c.VoltaConst.GameStatus.RESULT ? c.VoltaConst.cutStringWithEllipsis(t.ResultString, 18) : c.VoltaConst.cutStringWithEllipsis(t.Md5String, 19);
 this.m_lblResuldMd5.string = this.Md5AndResultText;
 this.btnCopy[1].active = this.m_nGameStatus == c.VoltaConst.GameStatus.RESULT;
 this.tenDoiKhach[0].string = c.VoltaConst.cutStringWithEllipsis(t.TeamBName, 17).toUpperCase();
@@ -1493,27 +1497,35 @@ this.nodeHomeWin.active = !1;
 this.nodeAwayWin.active = !1;
 this.m_lblTimer.node.active = !0;
 this.m_lblTimer.string = t.Ellapsed;
+this.EffectWinMoney[0].active = !1;
+this.EffectWinMoney[1].active = !1;
+this.EffectWinMoney[1].setPosition(this.defaultPositionNodeWin);
 }
 if (this.m_nGameStatus != c.VoltaConst.GameStatus.BETTING) {
 this.m_lblTimer.string = "";
 this.m_lblTimer.node.active = !1;
 }
-this.m_nGameStatus == c.VoltaConst.GameStatus.BETTING ? this.nodeLive.active = !1 : this.m_nGameStatus == c.VoltaConst.GameStatus.RESULT && 0 == c.VoltaConst.isLoading && (this.nodeLive.active = !0);
-var e = t, o = e.TotalTeamB, n = e.TotalBetTeamB, i = e.TotalTeamA, a = e.TotalBetTeamA;
-this.m_lblMoneyNha.string = c.VoltaConst.formatNumber(a);
-this.m_lblMoneyKhach.string = c.VoltaConst.formatNumber(n);
-this.m_lblUsersNha.string = c.VoltaConst.formatNumber(i);
-this.m_lblUsersKhach.string = c.VoltaConst.formatNumber(o);
-var r = cc.sequence(cc.scaleTo(.1, 1.1, 1.1), cc.scaleTo(.1, 1, 1));
-a !== this._totalBetNha && this.m_lblMoneyNha.node.runAction(r.clone());
-n !== this._totalBetKhach && this.m_lblMoneyKhach.node.runAction(r.clone());
-i !== this._totalAccountNha && this.m_lblUsersNha.node.runAction(r.clone());
-o !== this._totalAccountKhach && this.m_lblUsersKhach.node.runAction(r.clone());
-this._totalBetKhach = n;
-this._totalBetNha = a;
-this._totalAccountKhach = o;
-this._totalAccountNha = i;
-this.m_nGameStatus == c.VoltaConst.GameStatus.RESULT && this.showResult(e.teamWin);
+if (this.m_nGameStatus == c.VoltaConst.GameStatus.BETTING) this.nodeLive.active = !1; else if (this.m_nGameStatus == c.VoltaConst.GameStatus.RESULT && 0 == c.VoltaConst.isLoading) {
+c.VoltaConst.urlVideo = t.VideoUrl;
+setTimeout(function() {
+e.nodeLive.active = !0;
+}, 500);
+}
+var o = t, n = o.TotalTeamB, i = o.TotalBetTeamB, a = o.TotalTeamA, r = o.TotalBetTeamA;
+this.m_lblMoneyNha.string = c.VoltaConst.formatNumber(r);
+this.m_lblMoneyKhach.string = c.VoltaConst.formatNumber(i);
+this.m_lblUsersNha.string = c.VoltaConst.formatNumber(a);
+this.m_lblUsersKhach.string = c.VoltaConst.formatNumber(n);
+var s = cc.sequence(cc.scaleTo(.1, 1.1, 1.1), cc.scaleTo(.1, 1, 1));
+r !== this._totalBetNha && this.m_lblMoneyNha.node.runAction(s.clone());
+i !== this._totalBetKhach && this.m_lblMoneyKhach.node.runAction(s.clone());
+a !== this._totalAccountNha && this.m_lblUsersNha.node.runAction(s.clone());
+n !== this._totalAccountKhach && this.m_lblUsersKhach.node.runAction(s.clone());
+this._totalBetKhach = i;
+this._totalBetNha = r;
+this._totalAccountKhach = n;
+this._totalAccountNha = a;
+this.m_nGameStatus == c.VoltaConst.GameStatus.RESULT && this.showResult(o.teamWin);
 }
 };
 e.prototype.allSessionStatistic = function(t) {
@@ -1542,23 +1554,23 @@ t == c.VoltaConst.BetGate.GATE_HOME ? this.nodeHomeWin.active = !0 : t == c.Volt
 null != this._callback && this._callback(c.VoltaConst.RETURN_RESULT, this.m_nLocationIDWin);
 };
 e.prototype.touchHome = function() {
-if (this.m_nGameStatus != c.VoltaConst.GameStatus.RESULT && this.m_nGameStatus != c.VoltaConst.GameStatus.PREPARE_NEW_SESSION) {
 this.EffectBet[0].opacity = 255;
 this.EffectBet[0].runAction(cc.fadeOut(1));
 this.m_nBetGate = c.VoltaConst.BetGate.GATE_HOME;
 this.SetBet();
-} else this.showMessage("Đợi ván mới");
 };
 e.prototype.touchAway = function() {
-if (this.m_nGameStatus != c.VoltaConst.GameStatus.RESULT && this.m_nGameStatus != c.VoltaConst.GameStatus.PREPARE_NEW_SESSION) {
 this.EffectBet[1].opacity = 255;
 this.EffectBet[1].runAction(cc.fadeOut(1));
 this.m_nBetGate = c.VoltaConst.BetGate.GATE_AWAY;
 this.SetBet();
-} else this.showMessage("Đợi ván mới");
+};
+e.prototype.SetBet = function() {
+this.m_nGameStatus != c.VoltaConst.GameStatus.RESULT && this.m_nGameStatus != c.VoltaConst.GameStatus.PREPARE_NEW_SESSION && this.m_nGameStatus != c.VoltaConst.GameStatus.END_BETTING ? r.default.instance.sendSignalR("Bet", [ this.m_llBetValue, this.m_nBetGate, 1 ]) : this.showMessage("Hết giờ đặt cửa");
 };
 e.prototype.showMessage = function(t) {
 this.bordermsg.active = !0;
+this.m_lblMessage.node.getParent().active = !0;
 this.m_lblMessage.string = t;
 this.m_lblMessage.node.getParent().opacity = 255;
 this.m_lblMessage.node.getParent().stopAllActions();
@@ -1576,38 +1588,39 @@ fzgui.PlatformInterface.copy(this.Md5AndResultText);
 };
 var o;
 e._instance = null;
-a([ h(cc.Sprite) ], e.prototype, "logoNha", void 0);
-a([ h(cc.Sprite) ], e.prototype, "logoKhach", void 0);
-a([ h(cc.SpriteFrame) ], e.prototype, "spriteWinLoseStreak", void 0);
-a([ h(cc.Node) ], e.prototype, "btnCopy", void 0);
-a([ h(cc.Node) ], e.prototype, "streakDoiNha", void 0);
-a([ h(cc.Node) ], e.prototype, "streakDoiKhach", void 0);
-a([ h(cc.Node) ], e.prototype, "bordermsg", void 0);
-a([ h(cc.Node) ], e.prototype, "nodeLive", void 0);
-a([ h(cc.Node) ], e.prototype, "nodeViewLive", void 0);
-a([ h(cc.Node) ], e.prototype, "nodeSelectChip", void 0);
-a([ h(cc.Node) ], e.prototype, "nodeHomeWin", void 0);
-a([ h(cc.Node) ], e.prototype, "nodeAwayWin", void 0);
-a([ h(cc.Node) ], e.prototype, "EffectBet", void 0);
-a([ h(cc.Label) ], e.prototype, "m_txtNickName", void 0);
-a([ h(cc.Label) ], e.prototype, "m_txtMoney", void 0);
-a([ h(cc.Label) ], e.prototype, "m_lblTurnID", void 0);
-a([ h(cc.Label) ], e.prototype, "m_PercentWin", void 0);
-a([ h(cc.Label) ], e.prototype, "m_lblResuldMd5", void 0);
-a([ h(cc.Label) ], e.prototype, "m_lblMessage", void 0);
-a([ h(cc.Label) ], e.prototype, "m_lblUsersNha", void 0);
-a([ h(cc.Label) ], e.prototype, "m_lblUsersKhach", void 0);
-a([ h(cc.Label) ], e.prototype, "m_lblMoneyNha", void 0);
-a([ h(cc.Label) ], e.prototype, "m_lblMoneyKhach", void 0);
-a([ h(cc.Label) ], e.prototype, "m_lblBetedValueNha", void 0);
-a([ h(cc.Label) ], e.prototype, "m_lblBetedValueKhach", void 0);
-a([ h(cc.Label) ], e.prototype, "m_lblMoneyWin", void 0);
-a([ h(cc.Label) ], e.prototype, "m_lblTimer", void 0);
-a([ h(cc.Label) ], e.prototype, "winloseNha", void 0);
-a([ h(cc.Label) ], e.prototype, "winloseKhach", void 0);
-a([ h(cc.Label) ], e.prototype, "tenDoiNha", void 0);
-a([ h(cc.Label) ], e.prototype, "tenDoiKhach", void 0);
-return o = a([ p ], e);
+a([ p(cc.Sprite) ], e.prototype, "logoNha", void 0);
+a([ p(cc.Sprite) ], e.prototype, "logoKhach", void 0);
+a([ p(cc.SpriteFrame) ], e.prototype, "spriteWinLoseStreak", void 0);
+a([ p(cc.Node) ], e.prototype, "btnCopy", void 0);
+a([ p(cc.Node) ], e.prototype, "streakDoiNha", void 0);
+a([ p(cc.Node) ], e.prototype, "streakDoiKhach", void 0);
+a([ p(cc.Node) ], e.prototype, "bordermsg", void 0);
+a([ p(cc.Node) ], e.prototype, "nodeLive", void 0);
+a([ p(cc.Node) ], e.prototype, "nodeViewLive", void 0);
+a([ p(cc.Node) ], e.prototype, "nodeSelectChip", void 0);
+a([ p(cc.Node) ], e.prototype, "nodeHomeWin", void 0);
+a([ p(cc.Node) ], e.prototype, "nodeAwayWin", void 0);
+a([ p(cc.Node) ], e.prototype, "EffectBet", void 0);
+a([ p(cc.Node) ], e.prototype, "EffectWinMoney", void 0);
+a([ p(cc.Label) ], e.prototype, "m_txtNickName", void 0);
+a([ p(cc.Label) ], e.prototype, "m_txtMoney", void 0);
+a([ p(cc.Label) ], e.prototype, "m_lblTurnID", void 0);
+a([ p(cc.Label) ], e.prototype, "m_PercentWin", void 0);
+a([ p(cc.Label) ], e.prototype, "m_lblResuldMd5", void 0);
+a([ p(cc.Label) ], e.prototype, "m_lblMessage", void 0);
+a([ p(cc.Label) ], e.prototype, "m_lblUsersNha", void 0);
+a([ p(cc.Label) ], e.prototype, "m_lblUsersKhach", void 0);
+a([ p(cc.Label) ], e.prototype, "m_lblMoneyNha", void 0);
+a([ p(cc.Label) ], e.prototype, "m_lblMoneyKhach", void 0);
+a([ p(cc.Label) ], e.prototype, "m_lblBetedValueNha", void 0);
+a([ p(cc.Label) ], e.prototype, "m_lblBetedValueKhach", void 0);
+a([ p(cc.Label) ], e.prototype, "m_lblMoneyWin", void 0);
+a([ p(cc.Label) ], e.prototype, "m_lblTimer", void 0);
+a([ p(cc.Label) ], e.prototype, "winloseNha", void 0);
+a([ p(cc.Label) ], e.prototype, "winloseKhach", void 0);
+a([ p(cc.Label) ], e.prototype, "tenDoiNha", void 0);
+a([ p(cc.Label) ], e.prototype, "tenDoiKhach", void 0);
+return o = a([ h ], e);
 }(cc.Component);
 o.default = u;
 cc._RF.pop();
@@ -1641,7 +1654,7 @@ return a > 3 && r && Object.defineProperty(e, o, r), r;
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var r = t("../Volta.Const"), c = t("../Volta.MainGame"), s = cc._decorator, l = s.ccclass, p = (s.property, 
+var r = t("../Volta.Const"), c = t("../Volta.MainGame"), s = cc._decorator, l = s.ccclass, h = (s.property, 
 function(t) {
 i(e, t);
 function e() {
@@ -1792,7 +1805,7 @@ var o;
 e._instance = null;
 return o = a([ l ], e);
 }(cc.Component));
-o.default = p;
+o.default = h;
 cc._RF.pop();
 }, {
 "../Volta.Const": "Volta.Const",
@@ -1850,37 +1863,38 @@ e.prototype.initData = function(t) {
 this.pnlSC.removeAllChildren();
 var e = -1, o = 0, n = t[0];
 this._arrSC = [];
-for (var i = this._arrSC.length - 1; i >= 0; i--) {
-if ((a = t[i]) !== n) {
+for (var i in t) {
+if ((r = t[i]) !== n) {
 o++;
-n = a;
+n = r;
 }
-o < 31 && this._arrSC.push(a);
+o < 31 && this._arrSC.push(r);
 }
 e = -1;
 o = 0;
 n = this._arrSC[this._arrSC.length - 1];
-for (i = this._arrSC.length - 1; i >= 0; i--) {
-var a;
-if ((a = this._arrSC[i]) !== n) {
+for (var a = 0; a <= this._arrSC.length - 1; a++) {
+var r;
+if ((r = this._arrSC[a]) !== n) {
 o++;
 e = 0;
-n = a;
+n = r;
 } else if (6 == ++e) {
 e = 0;
 o++;
 }
 if (o > 31) break;
-var r = cc.instantiate(this.template);
-r.position = new cc.Vec3(0, 0);
-r.active = !0;
-r.getComponent(cc.Sprite).spriteFrame = "H" === a ? this.ellipseHome : this.ellipseAway;
-r.setPosition(this.getPosforSC(o, e));
-this.pnlSC.addChild(r);
+var c = cc.instantiate(this.template);
+c.position = new cc.Vec3(0, 0);
+c.active = !0;
+c.getComponent(cc.Sprite).spriteFrame = "H" === r ? this.ellipseHome : this.ellipseAway;
+c.setPosition(this.getPosforSC(o, e));
+this.pnlSC.addChild(c);
+console.log("????");
 }
 };
 e.prototype.getPosforSC = function(t, e) {
-var o = 40.5 + 40.5 * t, n = 179 - 40 * e;
+var o = -13.5 - 28 * t, n = -13 - 29 * e;
 return cc.v2(o, n);
 };
 var o;
@@ -1925,7 +1939,7 @@ return n;
 Object.defineProperty(o, "__esModule", {
 value: !0
 });
-var c = t("../Volta.Const"), s = t("../Volta.MainGame"), l = cc._decorator, p = l.ccclass, h = l.property, u = new Date(), f = u.getDate() + "/" + (u.getMonth() + 1) + "/" + u.getFullYear(), g = function(t) {
+var c = t("../Volta.Const"), s = t("../Volta.MainGame"), l = cc._decorator, h = l.ccclass, p = l.property, u = new Date(), f = u.getDate() + "/" + (u.getMonth() + 1) + "/" + u.getFullYear(), g = function(t) {
 i(e, t);
 function e() {
 var e = null !== t && t.apply(this, arguments) || this;
@@ -2001,11 +2015,11 @@ s.default.instance.OpacityView();
 };
 var o;
 e._instance = null;
-a([ h(cc.Node) ], e.prototype, "template", void 0);
-a([ h(cc.Node) ], e.prototype, "content", void 0);
-a([ h([ cc.SpriteFrame ]) ], e.prototype, "spfHuanChuong", void 0);
-a([ h(cc.Label) ], e.prototype, "txtDate", void 0);
-return o = a([ p ], e);
+a([ p(cc.Node) ], e.prototype, "template", void 0);
+a([ p(cc.Node) ], e.prototype, "content", void 0);
+a([ p([ cc.SpriteFrame ]) ], e.prototype, "spfHuanChuong", void 0);
+a([ p(cc.Label) ], e.prototype, "txtDate", void 0);
+return o = a([ h ], e);
 }(cc.Component);
 o.default = g;
 cc._RF.pop();
