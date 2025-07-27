@@ -1,0 +1,146 @@
+
+vt.png
+size: 2228,980
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1_00000
+  rotate: false
+  xy: 2, 204
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Comp 1_00001
+  rotate: false
+  xy: 282, 654
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Comp 1_00002
+  rotate: false
+  xy: 328, 328
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Comp 1_00003
+  rotate: false
+  xy: 608, 654
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Comp 1_00004
+  rotate: false
+  xy: 328, 2
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Comp 1_00005
+  rotate: false
+  xy: 654, 328
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Comp 1_00006
+  rotate: false
+  xy: 934, 654
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Comp 1_00007
+  rotate: true
+  xy: 1912, 654
+  size: 324, 298
+  orig: 324, 298
+  offset: 0, 0
+  index: -1
+Comp 1_00008
+  rotate: true
+  xy: 1932, 2
+  size: 324, 294
+  orig: 324, 294
+  offset: 0, 0
+  index: -1
+Comp 1_00009
+  rotate: true
+  xy: 1632, 2
+  size: 324, 298
+  orig: 324, 298
+  offset: 0, 0
+  index: -1
+Comp 1_00010
+  rotate: false
+  xy: 654, 2
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Comp 1_00011
+  rotate: false
+  xy: 980, 328
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Comp 1_00012
+  rotate: false
+  xy: 1260, 654
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Comp 1_00013
+  rotate: false
+  xy: 980, 2
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Comp 1_00014
+  rotate: false
+  xy: 1306, 328
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Comp 1_00015
+  rotate: false
+  xy: 1586, 654
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Comp 1_00016
+  rotate: false
+  xy: 1306, 2
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Comp 1_00017
+  rotate: false
+  xy: 1632, 328
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+Group 3
+  rotate: false
+  xy: 2, 530
+  size: 278, 448
+  orig: 278, 448
+  offset: 0, 0
+  index: -1
+VOLT A
+  rotate: false
+  xy: 2, 71
+  size: 243, 131
+  orig: 243, 131
+  offset: 0, 0
+  index: -1
