@@ -1,0 +1,489 @@
+
+BlackRed_Girl_nCards.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Card/BKK_Cardback
+  rotate: false
+  xy: 938, 353
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/BKK_Club
+  rotate: false
+  xy: 1054, 353
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/BKK_Diamond
+  rotate: false
+  xy: 1170, 353
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/BKK_Heart
+  rotate: false
+  xy: 1286, 353
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/BKK_J
+  rotate: false
+  xy: 1402, 353
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/BKK_K
+  rotate: false
+  xy: 1518, 353
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/BKK_Q
+  rotate: false
+  xy: 1634, 353
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/BKK_Spade
+  rotate: false
+  xy: 1750, 353
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Cardback
+  rotate: false
+  xy: 1866, 353
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Club_0
+  rotate: false
+  xy: 82, 110
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Club_A
+  rotate: false
+  xy: 198, 110
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Club_J
+  rotate: false
+  xy: 314, 175
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Club_K
+  rotate: false
+  xy: 430, 175
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Club_Q
+  rotate: false
+  xy: 546, 175
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Diamond_0
+  rotate: false
+  xy: 662, 175
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Diamond_A
+  rotate: true
+  xy: 314, 59
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Diamond_J
+  rotate: true
+  xy: 473, 59
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Diamond_K
+  rotate: true
+  xy: 632, 59
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Diamond_Q
+  rotate: false
+  xy: 778, 175
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Heart_0
+  rotate: false
+  xy: 791, 16
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Heart_A
+  rotate: false
+  xy: 894, 193
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Heart_J
+  rotate: false
+  xy: 1010, 194
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Heart_K
+  rotate: false
+  xy: 1126, 194
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Heart_Q
+  rotate: false
+  xy: 1242, 194
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Spade_0
+  rotate: false
+  xy: 1358, 194
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Spade_A
+  rotate: false
+  xy: 1474, 194
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Spade_J
+  rotate: false
+  xy: 1590, 194
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Spade_K
+  rotate: false
+  xy: 1706, 194
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/Hit_Spade_Q
+  rotate: false
+  xy: 1822, 194
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+Card/icCardfront
+  rotate: false
+  xy: 822, 352
+  size: 114, 158
+  orig: 114, 158
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_ArmL
+  rotate: false
+  xy: 1938, 222
+  size: 45, 129
+  orig: 45, 129
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_ArmR
+  rotate: false
+  xy: 1982, 383
+  size: 56, 127
+  orig: 56, 127
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Blink
+  rotate: true
+  xy: 1832, 2
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Blink2
+  rotate: false
+  xy: 822, 337
+  size: 46, 13
+  orig: 46, 13
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Body
+  rotate: false
+  xy: 102, 334
+  size: 142, 176
+  orig: 142, 176
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Body_dress
+  rotate: false
+  xy: 246, 334
+  size: 142, 176
+  orig: 142, 176
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Body_dress2
+  rotate: false
+  xy: 390, 334
+  size: 142, 176
+  orig: 142, 176
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Body_skin
+  rotate: false
+  xy: 534, 334
+  size: 142, 176
+  orig: 142, 176
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Body_skin2
+  rotate: false
+  xy: 678, 334
+  size: 142, 176
+  orig: 142, 176
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_BoobL
+  rotate: false
+  xy: 1985, 301
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_BoobR
+  rotate: false
+  xy: 1985, 223
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Collar
+  rotate: false
+  xy: 2, 2
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_EaringL
+  rotate: true
+  xy: 870, 337
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_EaringR
+  rotate: false
+  xy: 997, 23
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Eyes
+  rotate: true
+  xy: 281, 285
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Eyes2
+  rotate: false
+  xy: 1938, 198
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_FistL1
+  rotate: false
+  xy: 1784, 2
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_FistL2
+  rotate: false
+  xy: 1699, 48
+  size: 83, 66
+  orig: 83, 66
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_FistL3
+  rotate: true
+  xy: 907, 25
+  size: 24, 88
+  orig: 24, 88
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_FistR1
+  rotate: false
+  xy: 1232, 42
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_FistR2
+  rotate: true
+  xy: 2, 19
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_FistR3
+  rotate: true
+  xy: 1523, 90
+  size: 24, 88
+  orig: 24, 88
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Hair_back
+  rotate: false
+  xy: 907, 51
+  size: 102, 140
+  orig: 102, 140
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Hair_back2
+  rotate: true
+  xy: 1170, 101
+  size: 91, 130
+  orig: 91, 130
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Hair_back3
+  rotate: false
+  xy: 1417, 104
+  size: 104, 88
+  orig: 104, 88
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Hair_front
+  rotate: false
+  xy: 2, 288
+  size: 98, 222
+  orig: 98, 222
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Hair_front3
+  rotate: true
+  xy: 102, 269
+  size: 63, 177
+  orig: 63, 177
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_HandL
+  rotate: false
+  xy: 1784, 52
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_HandR
+  rotate: false
+  xy: 1165, 49
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Head
+  rotate: true
+  xy: 1523, 116
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Head2
+  rotate: true
+  xy: 1637, 116
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Head3
+  rotate: true
+  xy: 1751, 116
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_Girl_Shadow
+  rotate: false
+  xy: 1302, 104
+  size: 113, 88
+  orig: 113, 88
+  offset: 0, 0
+  index: -1
+Dealer Girl/BR_HandopenL
+  rotate: true
+  xy: 1613, 64
+  size: 50, 84
+  orig: 50, 84
+  offset: 0, 0
+  index: -1
+Table/Card_Drawer_BKK
+  rotate: false
+  xy: 1011, 45
+  size: 117, 67
+  orig: 117, 67
+  offset: 0, 0
+  index: -1
+Table/Card_Drawer_HIT
+  rotate: true
+  xy: 1865, 76
+  size: 116, 67
+  orig: 116, 67
+  offset: 0, 0
+  index: -1
+Table/ChipTray BKK
+  rotate: false
+  xy: 1011, 114
+  size: 157, 78
+  orig: 157, 78
+  offset: 0, 0
+  index: -1
+Table/ChipTray HIT
+  rotate: true
+  xy: 2, 104
+  size: 182, 78
+  orig: 182, 78
+  offset: 0, 0
+  index: -1
+Table/Table_Mask
+  rotate: true
+  xy: 1130, 62
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+8Gates_animation2.png
+size: 1628,775
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ava_fr
+  rotate: true
+  xy: 1503, 493
+  size: 280, 86
+  orig: 280, 86
+  offset: 0, 0
+  index: -1
+Ava_fr_shine
+  rotate: false
+  xy: 433, 2
+  size: 306, 73
+  orig: 306, 73
+  offset: 0, 0
+  index: -1
+Ava_fr_shine2
+  rotate: false
+  xy: 1073, 446
+  size: 162, 73
+  orig: 162, 73
+  offset: 0, 0
+  index: -1
+Avatar_circle
+  rotate: false
+  xy: 1237, 434
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+Bigwin_bg
+  rotate: true
+  xy: 2, 77
+  size: 696, 564
+  orig: 696, 564
+  offset: 0, 0
+  index: -1
+Button_op1
+  rotate: true
+  xy: 1440, 685
+  size: 88, 59
+  orig: 88, 59
+  offset: 0, 0
+  index: -1
+Button_op2
+  rotate: false
+  xy: 814, 82
+  size: 92, 64
+  orig: 92, 64
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 1327, 662
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+Fire_frame2
+  rotate: true
+  xy: 1326, 420
+  size: 71, 232
+  orig: 71, 232
+  offset: 0, 0
+  index: -1
+Flare
+  rotate: false
+  xy: 1073, 521
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+Fx_light1
+  rotate: false
+  xy: 741, 12
+  size: 252, 68
+  orig: 252, 68
+  offset: 0, 0
+  index: -1
+Fx_light2
+  rotate: false
+  xy: 995, 11
+  size: 252, 68
+  orig: 252, 68
+  offset: 0, 0
+  index: -1
+Fx_light3
+  rotate: false
+  xy: 1249, 11
+  size: 252, 68
+  orig: 252, 68
+  offset: 0, 0
+  index: -1
+Item_1
+  rotate: true
+  xy: 908, 86
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+Item_2
+  rotate: true
+  xy: 568, 400
+  size: 373, 128
+  orig: 373, 128
+  offset: 0, 0
+  index: -1
+Item_3
+  rotate: true
+  xy: 568, 137
+  size: 261, 99
+  orig: 261, 99
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 655, 82
+  size: 157, 52
+  orig: 157, 52
+  offset: 0, 0
+  index: -1
+Light1
+  rotate: true
+  xy: 704, 234
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+Light2
+  rotate: true
+  xy: 704, 250
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+Line_bot
+  rotate: true
+  xy: 1591, 394
+  size: 379, 16
+  orig: 379, 16
+  offset: 0, 0
+  index: -1
+Line_mid
+  rotate: false
+  xy: 2, 5
+  size: 429, 70
+  orig: 429, 70
+  offset: 0, 0
+  index: -1
+Pearl_fx1
+  rotate: false
+  xy: 1326, 92
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+Pearl_fx2
+  rotate: false
+  xy: 741, 426
+  size: 330, 347
+  orig: 330, 347
+  offset: 0, 0
+  index: -1
+Pearl_fx3
+  rotate: false
+  xy: 995, 81
+  size: 329, 343
+  orig: 329, 343
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 738, 148
+  size: 248, 276
+  orig: 248, 276
+  offset: 0, 0
+  index: -1
+StarLight
+  rotate: true
+  xy: 704, 266
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+StarWhite
+  rotate: false
+  xy: 908, 103
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+WIN
+  rotate: true
+  xy: 1404, 519
+  size: 141, 73
+  orig: 141, 73
+  offset: 0, 0
+  index: -1
+Wing_1
+  rotate: false
+  xy: 950, 104
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Wing_2
+  rotate: false
+  xy: 1503, 3
+  size: 109, 87
+  orig: 109, 87
+  offset: 0, 0
+  index: -1
+Wing_3
+  rotate: false
+  xy: 568, 91
+  size: 85, 44
+  orig: 85, 44
+  offset: 0, 0
+  index: -1
+Wing_4
+  rotate: true
+  xy: 704, 296
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+YOU
+  rotate: true
+  xy: 1327, 512
+  size: 148, 75
+  orig: 148, 75
+  offset: 0, 0
+  index: -1
+diamond_pattern
+  rotate: true
+  xy: 683, 149
+  size: 22, 52
+  orig: 22, 52
+  offset: 0, 0
+  index: -1
+line_top
+  rotate: true
+  xy: 698, 338
+  size: 435, 38
+  orig: 435, 38
+  offset: 0, 0
+  index: -1
+line_top1
+  rotate: false
+  xy: 945, 84
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+streak_base
+  rotate: true
+  xy: 669, 136
+  size: 262, 12
+  orig: 262, 12
+  offset: 0, 0
+  index: -1
+streak_head
+  rotate: false
+  xy: 683, 173
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+streak_trail
+  rotate: true
+  xy: 683, 202
+  size: 134, 19
+  orig: 134, 19
+  offset: 0, 0
+  index: -1

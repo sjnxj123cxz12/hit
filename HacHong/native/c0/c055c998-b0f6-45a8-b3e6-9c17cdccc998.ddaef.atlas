@@ -1,0 +1,482 @@
+
+BlackRed_Animation.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AvatarPlayer_Baht Coin
+  rotate: false
+  xy: 1399, 64
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+AvatarPlayer_Dollar Coin
+  rotate: false
+  xy: 1628, 1032
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+BlackPink/9 EN Pink
+  rotate: true
+  xy: 1519, 653
+  size: 136, 41
+  orig: 136, 41
+  offset: 0, 0
+  index: -1
+BlackPink/9 TH Pink
+  rotate: false
+  xy: 1628, 787
+  size: 138, 43
+  orig: 138, 43
+  offset: 0, 0
+  index: -1
+Button_Exit_Q
+  rotate: false
+  xy: 1583, 371
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Button_Exit_Q_
+  rotate: true
+  xy: 1905, 1293
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+Jackpot/Baht Coin
+  rotate: false
+  xy: 1387, 348
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Jackpot/Coinside1
+  rotate: false
+  xy: 1387, 308
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Jackpot/Coinside2
+  rotate: false
+  xy: 2026, 2008
+  size: 6, 38
+  orig: 6, 38
+  offset: 0, 0
+  index: -1
+Jackpot/Dollar Coin
+  rotate: false
+  xy: 1387, 268
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Jackpot/EN_TxBigWin
+  rotate: true
+  xy: 1574, 778
+  size: 279, 52
+  orig: 279, 52
+  offset: 0, 0
+  index: -1
+Jackpot/Jackpot
+  rotate: true
+  xy: 1876, 1689
+  size: 357, 148
+  orig: 357, 148
+  offset: 0, 0
+  index: -1
+Jackpot/Jackpot_BG
+  rotate: false
+  xy: 2, 1450
+  size: 880, 596
+  orig: 880, 596
+  offset: 0, 0
+  index: -1
+Jackpot/Jackpot_Frame1
+  rotate: false
+  xy: 884, 1714
+  size: 835, 332
+  orig: 835, 332
+  offset: 0, 0
+  index: -1
+Jackpot/Jackpot_Frame2
+  rotate: false
+  xy: 884, 1380
+  size: 835, 332
+  orig: 835, 332
+  offset: 0, 0
+  index: -1
+Jackpot/Jackpot_Frame3
+  rotate: false
+  xy: 662, 1046
+  size: 835, 332
+  orig: 835, 332
+  offset: 0, 0
+  index: -1
+Jackpot/Jackpot_Lamp_big
+  rotate: false
+  xy: 474, 86
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Jackpot/Jackpot_big
+  rotate: false
+  xy: 662, 833
+  size: 716, 159
+  orig: 716, 159
+  offset: 0, 0
+  index: -1
+Jackpot/Jackpot_big2
+  rotate: true
+  xy: 1721, 1330
+  size: 716, 153
+  orig: 716, 153
+  offset: 0, 0
+  index: -1
+Jackpot/Jackpot_lamp
+  rotate: false
+  xy: 662, 1380
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Jackpot/Jackpot_s1
+  rotate: false
+  xy: 2, 245
+  size: 635, 607
+  orig: 635, 607
+  offset: 0, 0
+  index: -1
+Jackpot/Jackpot_s2
+  rotate: false
+  xy: 2, 854
+  size: 658, 594
+  orig: 658, 594
+  offset: 0, 0
+  index: -1
+Jackpot/Reel
+  rotate: false
+  xy: 2, 2
+  size: 470, 110
+  orig: 470, 110
+  offset: 0, 0
+  index: -1
+Jackpot/ReelFrame
+  rotate: false
+  xy: 2, 114
+  size: 499, 129
+  orig: 499, 129
+  offset: 0, 0
+  index: -1
+Jackpot/TH_TxBigWin
+  rotate: false
+  xy: 991, 121
+  size: 410, 63
+  orig: 410, 63
+  offset: 0, 0
+  index: -1
+Jackpot/VN_TxBigWin
+  rotate: true
+  xy: 1373, 429
+  size: 216, 70
+  orig: 216, 70
+  offset: 0, 0
+  index: -1
+Notification/EN_Notify_CancelExit
+  rotate: false
+  xy: 991, 62
+  size: 406, 27
+  orig: 406, 27
+  offset: 0, 0
+  index: -1
+Notification/EN_Notify_Exit
+  rotate: true
+  xy: 2025, 1277
+  size: 410, 21
+  orig: 410, 21
+  offset: 0, 0
+  index: -1
+Notification/EN_Notify_Timer
+  rotate: true
+  xy: 1528, 474
+  size: 177, 27
+  orig: 177, 27
+  offset: 0, 0
+  index: -1
+Notification/Notification
+  rotate: false
+  xy: 662, 994
+  size: 871, 50
+  orig: 871, 50
+  offset: 0, 0
+  index: -1
+Notification/TH_Notify_CancelExit
+  rotate: true
+  xy: 1490, 305
+  size: 340, 36
+  orig: 340, 36
+  offset: 0, 0
+  index: -1
+Notification/TH_Notify_Exit
+  rotate: true
+  xy: 1867, 939
+  size: 389, 36
+  orig: 389, 36
+  offset: 0, 0
+  index: -1
+Notification/TH_Notify_Timer
+  rotate: true
+  xy: 1557, 334
+  size: 153, 24
+  orig: 153, 24
+  offset: 0, 0
+  index: -1
+Notification/Timer_UI1
+  rotate: false
+  xy: 1583, 423
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Notification/Timer_UI2
+  rotate: true
+  xy: 1445, 313
+  size: 332, 43
+  orig: 332, 43
+  offset: 0, 0
+  index: -1
+Notification/VN_Notify_CancelExit
+  rotate: true
+  xy: 1528, 297
+  size: 175, 27
+  orig: 175, 27
+  offset: 0, 0
+  index: -1
+Notification/VN_Notify_Exit
+  rotate: false
+  xy: 991, 91
+  size: 435, 28
+  orig: 435, 28
+  offset: 0, 0
+  index: -1
+Notification/VN_Notify_Timer
+  rotate: true
+  xy: 1557, 489
+  size: 162, 26
+  orig: 162, 26
+  offset: 0, 0
+  index: -1
+Statistic_arrow
+  rotate: false
+  xy: 991, 287
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+Table/9 EN Black
+  rotate: false
+  xy: 662, 1404
+  size: 185, 44
+  orig: 185, 44
+  offset: 0, 0
+  index: -1
+Table/9 EN Club
+  rotate: false
+  xy: 1562, 695
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+Table/9 EN Diamond
+  rotate: false
+  xy: 1639, 704
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+Table/9 EN Flush
+  rotate: true
+  xy: 591, 120
+  size: 77, 33
+  orig: 77, 33
+  offset: 0, 0
+  index: -1
+Table/9 EN Heart
+  rotate: false
+  xy: 503, 121
+  size: 86, 76
+  orig: 86, 76
+  offset: 0, 0
+  index: -1
+Table/9 EN Pair
+  rotate: false
+  xy: 1876, 1330
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+Table/9 EN Spade
+  rotate: false
+  xy: 1781, 840
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+Table/9 EN Straight
+  rotate: false
+  xy: 1905, 940
+  size: 122, 33
+  orig: 122, 33
+  offset: 0, 0
+  index: -1
+Table/9 TH Black
+  rotate: false
+  xy: 1781, 923
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+Table/9 TH Flush
+  rotate: false
+  xy: 1659, 1343
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+Table/9 TH Pair
+  rotate: false
+  xy: 1373, 388
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+Table/9 TH Straight
+  rotate: false
+  xy: 1562, 653
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+Table/9 VN Black
+  rotate: false
+  xy: 503, 199
+  size: 123, 44
+  orig: 123, 44
+  offset: 0, 0
+  index: -1
+Table/9 VN Flush
+  rotate: true
+  xy: 1585, 562
+  size: 89, 36
+  orig: 89, 36
+  offset: 0, 0
+  index: -1
+Table/9 VN Pair
+  rotate: false
+  xy: 1932, 1327
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+Table/9 VN Red
+  rotate: true
+  xy: 1716, 699
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+Table/9 VN Straight
+  rotate: true
+  xy: 1585, 489
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+Table/HL Black_B
+  rotate: false
+  xy: 997, 588
+  size: 361, 243
+  orig: 361, 243
+  offset: 0, 0
+  index: -1
+Table/HL Black_F
+  rotate: false
+  xy: 639, 295
+  size: 356, 536
+  orig: 356, 536
+  offset: 0, 0
+  index: -1
+Table/HL Club_B
+  rotate: false
+  xy: 1905, 975
+  size: 141, 300
+  orig: 141, 300
+  offset: 0, 0
+  index: -1
+Table/HL Club_F
+  rotate: false
+  xy: 1659, 979
+  size: 206, 349
+  orig: 206, 349
+  offset: 0, 0
+  index: -1
+Table/HL Pair_B
+  rotate: true
+  xy: 997, 186
+  size: 197, 388
+  orig: 197, 388
+  offset: 0, 0
+  index: -1
+Table/HL Pair_F
+  rotate: false
+  xy: 1380, 791
+  size: 192, 201
+  orig: 192, 201
+  offset: 0, 0
+  index: -1
+Table/HL Spade_B
+  rotate: false
+  xy: 1876, 1363
+  size: 147, 324
+  orig: 147, 324
+  offset: 0, 0
+  index: -1
+Table/HL Spade_F
+  rotate: false
+  xy: 1499, 1059
+  size: 158, 319
+  orig: 158, 319
+  offset: 0, 0
+  index: -1
+Table/HL Straight_B
+  rotate: true
+  xy: 997, 385
+  size: 201, 374
+  orig: 201, 374
+  offset: 0, 0
+  index: -1
+Table/HL Straight_F
+  rotate: true
+  xy: 639, 89
+  size: 204, 350
+  orig: 204, 350
+  offset: 0, 0
+  index: -1
+Win_ray1
+  rotate: false
+  xy: 1628, 832
+  size: 151, 145
+  orig: 151, 145
+  offset: 0, 0
+  index: -1
+Win_ray2
+  rotate: false
+  xy: 1360, 647
+  size: 157, 142
+  orig: 157, 142
+  offset: 0, 0
+  index: -1

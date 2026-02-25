@@ -1,0 +1,153 @@
+
+ngoc.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue
+  rotate: false
+  xy: 920, 846
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Green
+  rotate: true
+  xy: 920, 929
+  size: 81, 102
+  orig: 81, 102
+  offset: 0, 0
+  index: -1
+Grey
+  rotate: true
+  xy: 286, 9
+  size: 82, 93
+  orig: 82, 93
+  offset: 0, 0
+  index: -1
+Pink
+  rotate: false
+  xy: 920, 763
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Purple
+  rotate: false
+  xy: 920, 680
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Red
+  rotate: false
+  xy: 784, 224
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Turquoise
+  rotate: false
+  xy: 762, 141
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Yellow
+  rotate: false
+  xy: 762, 59
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fx/Smoke1
+  rotate: false
+  xy: 388, 278
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fx/Smoke2
+  rotate: false
+  xy: 388, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fx/choe
+  rotate: false
+  xy: 920, 631
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+fx/duong_luot4
+  rotate: true
+  xy: 2, 2
+  size: 89, 282
+  orig: 89, 282
+  offset: 0, 0
+  index: -1
+fx/khoi_go_ma
+  rotate: true
+  xy: 867, 248
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+fx/sao_toa1
+  rotate: false
+  xy: 2, 93
+  size: 384, 385
+  orig: 384, 385
+  offset: 0, 0
+  index: -1
+fx/sao_toa2
+  rotate: false
+  xy: 534, 625
+  size: 384, 385
+  orig: 384, 385
+  offset: 0, 0
+  index: -1
+fx/star1
+  rotate: false
+  xy: 688, 423
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fx/sumwin_ray2
+  rotate: false
+  xy: 2, 480
+  size: 530, 530
+  orig: 530, 530
+  offset: 0, 0
+  index: -1
+fx/toa_cau_ulti1
+  rotate: false
+  xy: 590, 229
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+fx/toa_gai1
+  rotate: true
+  xy: 534, 491
+  size: 132, 152
+  orig: 132, 152
+  offset: 0, 0
+  index: -1
+fx/toa_magic1
+  rotate: false
+  xy: 590, 80
+  size: 170, 147
+  orig: 170, 147
+  offset: 0, 0
+  index: -1
+fx/toa_ngoc1
+  rotate: false
+  xy: 784, 307
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1

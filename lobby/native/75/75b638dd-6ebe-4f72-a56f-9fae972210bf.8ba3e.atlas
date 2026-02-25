@@ -1,0 +1,97 @@
+
+lobbytet_hit.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bird
+  rotate: false
+  xy: 891, 225
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+FX_Shine1
+  rotate: false
+  xy: 708, 96
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+avatar_coin2
+  rotate: false
+  xy: 287, 54
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+avatar_coin3
+  rotate: true
+  xy: 459, 191
+  size: 23, 70
+  orig: 23, 70
+  offset: 0, 0
+  index: -1
+avatar_rope
+  rotate: false
+  xy: 2, 185
+  size: 373, 69
+  orig: 373, 69
+  offset: 0, 0
+  index: -1
+center_coin1
+  rotate: true
+  xy: 2, 2
+  size: 16, 55
+  orig: 16, 55
+  offset: 0, 0
+  index: -1
+right_rope
+  rotate: false
+  xy: 2, 84
+  size: 317, 99
+  orig: 317, 99
+  offset: 0, 0
+  index: -1
+top_coin1
+  rotate: false
+  xy: 321, 113
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+top_coin2
+  rotate: true
+  xy: 377, 186
+  size: 28, 80
+  orig: 28, 80
+  offset: 0, 0
+  index: -1
+top_coin_shadow
+  rotate: true
+  xy: 154, 37
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+top_decor1
+  rotate: false
+  xy: 868, 176
+  size: 21, 78
+  orig: 21, 78
+  offset: 0, 0
+  index: -1
+top_rope
+  rotate: false
+  xy: 377, 216
+  size: 329, 38
+  orig: 329, 38
+  offset: 0, 0
+  index: -1
+top_tree
+  rotate: false
+  xy: 2, 20
+  size: 150, 62
+  orig: 150, 62
+  offset: 0, 0
+  index: -1
