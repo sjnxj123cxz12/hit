@@ -1,0 +1,153 @@
+
+anim_loading.png
+size: 702,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/ef_00040
+  rotate: false
+  xy: 2, 38
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00041
+  rotate: false
+  xy: 2, 2
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00042
+  rotate: false
+  xy: 69, 38
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00043
+  rotate: false
+  xy: 69, 2
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00044
+  rotate: false
+  xy: 136, 38
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00045
+  rotate: false
+  xy: 136, 2
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00046
+  rotate: false
+  xy: 203, 38
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00047
+  rotate: false
+  xy: 203, 2
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00048
+  rotate: false
+  xy: 270, 38
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00049
+  rotate: false
+  xy: 270, 2
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00050
+  rotate: false
+  xy: 337, 38
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00051
+  rotate: false
+  xy: 337, 2
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00052
+  rotate: false
+  xy: 404, 38
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00053
+  rotate: false
+  xy: 404, 2
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00054
+  rotate: false
+  xy: 471, 38
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00055
+  rotate: false
+  xy: 471, 2
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00056
+  rotate: false
+  xy: 538, 38
+  size: 65, 34
+  orig: 101, 45
+  offset: 11, 5
+  index: -1
+ef/ef_00057
+  rotate: false
+  xy: 538, 2
+  size: 64, 34
+  orig: 101, 45
+  offset: 12, 5
+  index: -1
+ef/ef_00058
+  rotate: false
+  xy: 605, 38
+  size: 64, 34
+  orig: 101, 45
+  offset: 12, 5
+  index: -1
+ef/ef_00059
+  rotate: false
+  xy: 604, 2
+  size: 64, 34
+  orig: 101, 45
+  offset: 12, 5
+  index: -1
+light
+  rotate: false
+  xy: 671, 43
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
