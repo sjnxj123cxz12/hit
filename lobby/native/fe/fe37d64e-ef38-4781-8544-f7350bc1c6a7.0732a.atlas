@@ -1,0 +1,104 @@
+
+hit_304.png
+size: 1714,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+304_bird_1
+  rotate: false
+  xy: 1624, 73
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+304_bird_2
+  rotate: false
+  xy: 566, 4
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+304_bird_3
+  rotate: false
+  xy: 499, 2
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+304_decor
+  rotate: true
+  xy: 2, 4
+  size: 9, 289
+  orig: 9, 289
+  offset: 0, 0
+  index: -1
+304_flag_bot
+  rotate: false
+  xy: 2, 15
+  size: 495, 204
+  orig: 495, 204
+  offset: 0, 0
+  index: -1
+304_flag_center
+  rotate: false
+  xy: 499, 59
+  size: 507, 160
+  orig: 507, 160
+  offset: 0, 0
+  index: -1
+304_flag_star
+  rotate: false
+  xy: 1624, 142
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+304_flag_top
+  rotate: false
+  xy: 1008, 30
+  size: 454, 189
+  orig: 454, 189
+  offset: 0, 0
+  index: -1
+FX_shine
+  rotate: false
+  xy: 1464, 61
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+wc_firework1
+  rotate: false
+  xy: 1704, 127
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+wc_firework2
+  rotate: false
+  xy: 644, 6
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+wc_firework3
+  rotate: false
+  xy: 1464, 39
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+wc_firework4
+  rotate: true
+  xy: 1688, 120
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+wc_lightpub
+  rotate: false
+  xy: 644, 23
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1

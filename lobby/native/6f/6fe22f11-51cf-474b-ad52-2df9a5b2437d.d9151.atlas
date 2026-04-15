@@ -1,0 +1,90 @@
+
+anim_chongphising.png
+size: 729,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CẢNH BÁO
+  rotate: false
+  xy: 533, 14
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 5
+  size: 376, 69
+  orig: 376, 69
+  offset: 0, 0
+  index: -1
+X to
+  rotate: false
+  xy: 484, 27
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Xnho
+  rotate: false
+  xy: 639, 33
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 380, 2
+  size: 102, 72
+  orig: 102, 72
+  offset: 0, 0
+  index: -1
+chamthan
+  rotate: false
+  xy: 717, 24
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+move
+  rotate: true
+  xy: 717, 54
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+muiten
+  rotate: false
+  xy: 682, 27
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+muiten_sangnho
+  rotate: true
+  xy: 599, 16
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+muiten_sangto
+  rotate: true
+  xy: 484, 2
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+tamgiac
+  rotate: false
+  xy: 533, 32
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+tamgiacdo
+  rotate: false
+  xy: 586, 32
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1

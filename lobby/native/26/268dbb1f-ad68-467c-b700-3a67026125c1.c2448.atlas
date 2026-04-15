@@ -1,0 +1,97 @@
+
+hit_wc.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wc_ball
+  rotate: false
+  xy: 2, 18
+  size: 200, 197
+  orig: 200, 197
+  offset: 0, 0
+  index: -1
+wc_ball_glow
+  rotate: false
+  xy: 2, 217
+  size: 289, 289
+  orig: 289, 289
+  offset: 0, 0
+  index: -1
+wc_blackfilter1
+  rotate: false
+  xy: 293, 176
+  size: 250, 123
+  orig: 250, 123
+  offset: 0, 0
+  index: -1
+wc_blackfilter2
+  rotate: false
+  xy: 293, 301
+  size: 365, 205
+  orig: 365, 205
+  offset: 0, 0
+  index: -1
+wc_firework1
+  rotate: true
+  xy: 545, 178
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+wc_firework2
+  rotate: false
+  xy: 773, 341
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+wc_firework3
+  rotate: false
+  xy: 1005, 486
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+wc_firework4
+  rotate: false
+  xy: 2, 2
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+wc_flag1
+  rotate: true
+  xy: 204, 111
+  size: 104, 40
+  orig: 104, 40
+  offset: 0, 0
+  index: -1
+wc_flag2
+  rotate: false
+  xy: 545, 188
+  size: 71, 111
+  orig: 71, 111
+  offset: 0, 0
+  index: -1
+wc_flagstring1
+  rotate: false
+  xy: 660, 358
+  size: 343, 148
+  orig: 343, 148
+  offset: 0, 0
+  index: -1
+wc_lightpub
+  rotate: false
+  xy: 618, 265
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+wc_silk
+  rotate: true
+  xy: 660, 314
+  size: 42, 111
+  orig: 42, 111
+  offset: 0, 0
+  index: -1
